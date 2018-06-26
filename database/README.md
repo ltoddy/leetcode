@@ -1,7 +1,7 @@
 |题号|标题|难度|状态|
 |--------------|------------|---------------|-----------------|
 |175|[组合两个表](https://leetcode-cn.com/problems/combine-two-tables/description/)|简单|[已解决](combine-two-tables.sql)|
-|176|[第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/description/)|简单||
+|176|[第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/description/)|简单|[已解决](second-highest-salary.sql)|
 |177|[第N高的薪水](https://leetcode-cn.com/problems/nth-highest-salary/description/)|中等||
 |178|[分数排名](https://leetcode-cn.com/problems/rank-scores/description/)|中等||
 |180|[连续出现的数字](https://leetcode-cn.com/problems/consecutive-numbers/description/)|中等||
