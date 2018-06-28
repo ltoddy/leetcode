@@ -10,7 +10,7 @@
 |183|[从不订购的客户](https://leetcode-cn.com/problems/customers-who-never-order/description/)|简单|[已解决](customers-who-never-order.sql)|
 |184|[部门工资最高的员工](https://leetcode-cn.com/problems/department-highest-salary/description/)|中等||
 |185|[部门工资前三高的员工](https://leetcode-cn.com/problems/department-top-three-salaries/description/)|困难||
-|196|[删除重复的电子邮箱](https://leetcode-cn.com/problems/delete-duplicate-emails/description/)|简单||
+|196|[删除重复的电子邮箱](https://leetcode-cn.com/problems/delete-duplicate-emails/description/)|简单|[已解决](delete-duplicate-emails.sql)|
 |197|[上升的温度](https://leetcode-cn.com/problems/rising-temperature/description/)|简单||
 |262|[行程和用户](https://leetcode-cn.com/problems/trips-and-users/description/)|困难||
 |595|[大的国家](https://leetcode-cn.com/problems/big-countries/description/)|简单|[已解决](big-countries.sql)|
