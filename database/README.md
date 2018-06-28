@@ -14,7 +14,7 @@
 |197|[上升的温度](https://leetcode-cn.com/problems/rising-temperature/description/)|简单||
 |262|[行程和用户](https://leetcode-cn.com/problems/trips-and-users/description/)|困难||
 |595|[大的国家](https://leetcode-cn.com/problems/big-countries/description/)|简单||
-|596|[超过5名学生的课](https://leetcode-cn.com/problems/classes-more-than-5-students/description/)|简单||
+|596|[超过5名学生的课](https://leetcode-cn.com/problems/classes-more-than-5-students/description/)|简单|[已解决](classes-more-than-5-students.sql)|
 |601|[体育馆的人流量](https://leetcode-cn.com/problems/human-traffic-of-stadium/description/)|困难||
 |620|[有趣的电影](https://leetcode-cn.com/problems/not-boring-movies/description/)|简单|[已解决](not-boring-movies.sql)|
 |626|[换座位](https://leetcode-cn.com/problems/exchange-seats/description/)|中等||
