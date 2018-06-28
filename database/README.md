@@ -16,6 +16,6 @@
 |595|[大的国家](https://leetcode-cn.com/problems/big-countries/description/)|简单||
 |596|[超过5名学生的课](https://leetcode-cn.com/problems/classes-more-than-5-students/description/)|简单||
 |601|[体育馆的人流量](https://leetcode-cn.com/problems/human-traffic-of-stadium/description/)|困难||
-|620|[有趣的电影](https://leetcode-cn.com/problems/not-boring-movies/description/)|简单||
+|620|[有趣的电影](https://leetcode-cn.com/problems/not-boring-movies/description/)|简单|[已解决](not-boring-movies.sql)|
 |626|[换座位](https://leetcode-cn.com/problems/exchange-seats/description/)|中等||
 |627|[交换工资](https://leetcode-cn.com/problems/swap-salary/description/)|简单|[已解决](swap-salary.sql)|
