@@ -4,3 +4,4 @@
 |7|[反转整数](https://leetcode-cn.com/problems/reverse-integer/description/)|简单|[已解决](reverse-integer.cpp)|
 |9|[回文数](https://leetcode-cn.com/problems/palindrome-number/description/)|简单|[已解决](palindrome-number.cpp)|
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/)|简单|[已解决](merge-two-sorted-lists.cpp)|
+|69|[x 的平方根](https://leetcode-cn.com/problems/sqrtx/description/)|简单|[已解决](sqrtx.cpp)|
