@@ -4,7 +4,7 @@
 |176|[第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/description/)|简单|[已解决](second-highest-salary.sql)|
 |177|[第N高的薪水](https://leetcode-cn.com/problems/nth-highest-salary/description/)|中等||
 |178|[分数排名](https://leetcode-cn.com/problems/rank-scores/description/)|中等|[已解决](rank-scores.sql)|
-|180|[连续出现的数字](https://leetcode-cn.com/problems/consecutive-numbers/description/)|中等||
+|180|[连续出现的数字](https://leetcode-cn.com/problems/consecutive-numbers/description/)|中等|[已解决](consecutive-numbers.sql)|
 |181|[超过经理收入的员工](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/description/)|简单|[已解决](employees-earning-more-than-their-managers)|
 |182|[查找重复的电子邮箱](https://leetcode-cn.com/problems/duplicate-emails/description/)|简单|[已解决](duplicate-emails.sql)|
 |183|[从不订购的客户](https://leetcode-cn.com/problems/customers-who-never-order/description/)|简单|[已解决](customers-who-never-order.sql)|
