@@ -12,7 +12,7 @@
 |185|[部门工资前三高的员工](https://leetcode-cn.com/problems/department-top-three-salaries/description/)|困难||
 |196|[删除重复的电子邮箱](https://leetcode-cn.com/problems/delete-duplicate-emails/description/)|简单|[已解决](delete-duplicate-emails.sql)|
 |197|[上升的温度](https://leetcode-cn.com/problems/rising-temperature/description/)|简单|[已解决](rising-temperature)|
-|262|[行程和用户](https://leetcode-cn.com/problems/trips-and-users/description/)|困难||
+|262|[行程和用户](https://leetcode-cn.com/problems/trips-and-users/description/)|困难|[已解决](trips-and-users.sql)|
 |595|[大的国家](https://leetcode-cn.com/problems/big-countries/description/)|简单|[已解决](big-countries.sql)|
 |596|[超过5名学生的课](https://leetcode-cn.com/problems/classes-more-than-5-students/description/)|简单|[已解决](classes-more-than-5-students.sql)|
 |601|[体育馆的人流量](https://leetcode-cn.com/problems/human-traffic-of-stadium/description/)|困难|[已解决](human-traffic-of-stadium.sql)|
