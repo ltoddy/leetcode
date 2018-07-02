@@ -2,7 +2,7 @@
 |--------------|--------------|--------------|--------------|
 |175|[组合两个表](https://leetcode-cn.com/problems/combine-two-tables/description/)|简单|[已解决](combine-two-tables.sql)|
 |176|[第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/description/)|简单|[已解决](second-highest-salary.sql)|
-|177|[第N高的薪水](https://leetcode-cn.com/problems/nth-highest-salary/description/)|中等||
+|177|[第N高的薪水](https://leetcode-cn.com/problems/nth-highest-salary/description/)|中等|[已解决](nth-highest-salary.sql)|
 |178|[分数排名](https://leetcode-cn.com/problems/rank-scores/description/)|中等|[已解决](rank-scores.sql)|
 |180|[连续出现的数字](https://leetcode-cn.com/problems/consecutive-numbers/description/)|中等|[已解决](consecutive-numbers.sql)|
 |181|[超过经理收入的员工](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/description/)|简单|[已解决](employees-earning-more-than-their-managers)|
