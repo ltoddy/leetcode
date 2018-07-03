@@ -8,5 +8,6 @@
 |20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/description/)|简单|[已解决](valid-parentheses.cpp)|
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/)|简单|[已解决](merge-two-sorted-lists.cpp)|
 |26|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/)|简单|[已解决](remove-duplicates-from-sorted-array.cpp)|
+|28|[实现strStr()](https://leetcode-cn.com/problems/implement-strstr/description/)|简单|[已解决](implement-strstr.cpp)|
 |69|[x 的平方根](https://leetcode-cn.com/problems/sqrtx/description/)|简单|[已解决](sqrtx.cpp)|
 |125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/description/)|简单|[已解决](valid-palindrome.cpp)|
