@@ -11,5 +11,6 @@
 |28|[实现strStr()](https://leetcode-cn.com/problems/implement-strstr/description/)|简单|[已解决](implement-strstr.cpp)|
 |35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/description/)|简单|[已解决](search-insert-position.cpp)|
 |53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/description/)|简单|[已解决](maximum-subarray.cpp)|
+|58|[最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/description/)|简单|[已解决](length-of-last-word.cpp)|
 |69|[x 的平方根](https://leetcode-cn.com/problems/sqrtx/description/)|简单|[已解决](sqrtx.cpp)|
 |125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/description/)|简单|[已解决](valid-palindrome.cpp)|
