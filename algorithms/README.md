@@ -10,5 +10,6 @@
 |26|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/)|简单|[已解决](remove-duplicates-from-sorted-array.cpp)|
 |28|[实现strStr()](https://leetcode-cn.com/problems/implement-strstr/description/)|简单|[已解决](implement-strstr.cpp)|
 |35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/description/)|简单|[已解决](search-insert-position.cpp)|
+|53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/description/)|简单|[已解决](maximum-subarray.cpp)|
 |69|[x 的平方根](https://leetcode-cn.com/problems/sqrtx/description/)|简单|[已解决](sqrtx.cpp)|
 |125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/description/)|简单|[已解决](valid-palindrome.cpp)|
