@@ -18,4 +18,5 @@
 |70|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/description/)|简单|[已解决](climbing-stairs.cpp)|
 |118|[杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/description/)|简单|[已解决](pascals-triangle.cpp)|
 |125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/description/)|简单|[已解决](valid-palindrome.cpp)|
+|171|[Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/description/)|简单|[已解决](excel-sheet-column-number.cpp)|
 |191|[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/description/)|简单|[已解决](number-of-1-bits.cpp)|
