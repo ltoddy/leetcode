@@ -16,6 +16,7 @@
 |67|[二进制求和](https://leetcode-cn.com/problems/add-binary/description/)|简单|[已解决](add-binary.cpp)|
 |69|[x 的平方根](https://leetcode-cn.com/problems/sqrtx/description/)|简单|[已解决](sqrtx.cpp)|
 |70|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/description/)|简单|[已解决](climbing-stairs.cpp)|
+|74|[搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/description/)|中等|[已解决](search-a-2d-matrix.cpp)|
 |91|[解码方法](https://leetcode-cn.com/problems/decode-ways/description/)|中等|[已解决](decode-ways.cpp)|
 |118|[杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/description/)|简单|[已解决](pascals-triangle.cpp)|
 |125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/description/)|简单|[已解决](valid-palindrome.cpp)|
