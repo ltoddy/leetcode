@@ -10,6 +10,7 @@
 |26|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/)|简单|[已解决](remove-duplicates-from-sorted-array.cpp)|
 |28|[实现strStr()](https://leetcode-cn.com/problems/implement-strstr/description/)|简单|[已解决](implement-strstr.cpp)|
 |35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/description/)|简单|[已解决](search-insert-position.cpp)|
+|37|[解数独](https://leetcode-cn.com/problems/sudoku-solver/description/)|困难|[已解决](sudoku-solver.cpp)|
 |53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/description/)|简单|[已解决](maximum-subarray.cpp)|
 |58|[最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/description/)|简单|[已解决](length-of-last-word.cpp)|
 |66|[加一](https://leetcode-cn.com/problems/plus-one/description/)|简单|[已解决](plus-one.cpp)|
