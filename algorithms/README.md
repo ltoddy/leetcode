@@ -37,5 +37,6 @@
 |371|[两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/description/)|简单|[已解决](sum-of-two-integers.cpp)|
 |400|[第N个数字](https://leetcode-cn.com/problems/nth-digit/description/)|简单|[已解决](nth-digit.cpp)|
 |633|[平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/description/)|简单|[已解决](sum-of-square-numbers.cpp)|
+|796|[旋转字符串](https://leetcode-cn.com/problems/rotate-string/description/)|简单|[已解决](rotate-string.cpp)|
 |860|[柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/)|简单|[已解决](lemonade-change.cpp)|
 |868|[转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/description/)|简单|[已解决](transpose-matrix.cpp)|
