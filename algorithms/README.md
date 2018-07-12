@@ -36,3 +36,4 @@
 |349|[两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/description/)|简单|[已解决](intersection-of-two-arrays.cpp)|
 |371|[两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/description/)|简单|[已解决](sum-of-two-integers.cpp)|
 |400|[第N个数字](https://leetcode-cn.com/problems/nth-digit/description/)|简单|[已解决](nth-digit.cpp)|
+|868|[转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/description/)|简单|[已解决](transpose-matrix.cpp)|
