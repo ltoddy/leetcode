@@ -12,13 +12,9 @@ But we use code to solve problems, so we need to improve out **ability** to solv
 
 There is a way to improve out ability that do the algorithm problems.
 
-<<<<<<< HEAD
 LeetCode is a OJ website that you can use it to practice.
 
 Perhaps you may find that doing algorithm problems is more interesting than usual work.
-=======
-LeetCode is a OJ website that you can use is to practice.
->>>>>>> 66fea0408b0c099cac2edc15138a75e302e4d773
 
 ------------------------------------------------------------
 
