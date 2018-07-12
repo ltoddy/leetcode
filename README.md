@@ -28,7 +28,7 @@ using namespace std;
 
 LeetCode uses the code by default.
 
-If your have joined the NOIP or ICPC, I believe you are familiar with above lines of code.
+If you have joined the NOIP or ICPC, I believe you are familiar with above lines of code.
 
 Right, you can use everything in the c/cpp standara library. 
 It's very convenient to solve problems that about algorithm and datastruct.
