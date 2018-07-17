@@ -40,6 +40,7 @@
 |342|[4的幂](https://leetcode-cn.com/problems/power-of-four/description/)|简单|[已解决](power-of-four.cpp)|
 |344|[反转字符串](https://leetcode-cn.com/problems/reverse-string/description/)|简单|[已解决](reverse-string.cpp)|
 |349|[两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/description/)|简单|[已解决](intersection-of-two-arrays.cpp)|
+|367|[有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/description/)|简单|[已解决](valid-perfect-square.cpp)|
 |371|[两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/description/)|简单|[已解决](sum-of-two-integers.cpp)|
 |387|[字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/description/)|简单|[已解决](first-unique-character-in-a-string.cpp)|
 |400|[第N个数字](https://leetcode-cn.com/problems/nth-digit/description/)|简单|[已解决](nth-digit.cpp)|
