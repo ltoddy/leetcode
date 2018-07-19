@@ -11,6 +11,7 @@
 |14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/description/)|简单|[已解决](longest-common-prefix.cpp)|
 |20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/description/)|简单|[已解决](valid-parentheses.cpp)|
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/)|简单|[已解决](merge-two-sorted-lists.cpp)|
+|22|[括号生成](https://leetcode-cn.com/problems/generate-parentheses/description/)|中等|[已解决](generate-parentheses.cpp)|
 |26|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/)|简单|[已解决](remove-duplicates-from-sorted-array.cpp)|
 |28|[实现strStr()](https://leetcode-cn.com/problems/implement-strstr/description/)|简单|[已解决](implement-strstr.cpp)|
 |31|[下一个排列](https://leetcode-cn.com/problems/next-permutation/description/)|中等|[已解决](next-permutation.cpp)|
