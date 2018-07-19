@@ -39,6 +39,7 @@
 |231|[2的幂](https://leetcode-cn.com/problems/power-of-two/description/)|简单|[已解决](power-of-two.cpp)|
 |240|[搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/description/)|中等|[已解决](search-a-2d-matrix-ii.cpp)|
 |268|[缺失数字](https://leetcode-cn.com/problems/missing-number/description/)|简单|[已解决](missing-number.cpp)|
+|287|[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/description/)|中等|[已解决](find-the-duplicate-number.cpp)|
 |326|[3的幂](https://leetcode-cn.com/problems/power-of-three/description/)|简单|[已解决](power-of-three.cpp)|
 |342|[4的幂](https://leetcode-cn.com/problems/power-of-four/description/)|简单|[已解决](power-of-four.cpp)|
 |344|[反转字符串](https://leetcode-cn.com/problems/reverse-string/description/)|简单|[已解决](reverse-string.cpp)|
