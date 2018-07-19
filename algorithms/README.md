@@ -37,6 +37,7 @@
 |172|[阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/description/)|简单|[已解决](factorial-trailing-zeroes.cpp)|
 |191|[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/description/)|简单|[已解决](number-of-1-bits.cpp)|
 |231|[2的幂](https://leetcode-cn.com/problems/power-of-two/description/)|简单|[已解决](power-of-two.cpp)|
+|240|[搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/description/)|中等|[已解决](search-a-2d-matrix-ii.cpp)|
 |268|[缺失数字](https://leetcode-cn.com/problems/missing-number/description/)|简单|[已解决](missing-number.cpp)|
 |326|[3的幂](https://leetcode-cn.com/problems/power-of-three/description/)|简单|[已解决](power-of-three.cpp)|
 |342|[4的幂](https://leetcode-cn.com/problems/power-of-four/description/)|简单|[已解决](power-of-four.cpp)|
