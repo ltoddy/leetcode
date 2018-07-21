@@ -41,6 +41,7 @@
 |172|[阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/description/)|简单|[已解决](factorial-trailing-zeroes.cpp)|
 |190|[颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/description/)|简单|[已解决](reverse-bits.cpp)|
 |191|[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/description/)|简单|[已解决](number-of-1-bits.cpp)|
+|204|[计数质数](https://leetcode-cn.com/problems/count-primes/description/)|简单|[已解决](count-primes.cpp)|
 |231|[2的幂](https://leetcode-cn.com/problems/power-of-two/description/)|简单|[已解决](power-of-two.cpp)|
 |240|[搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/description/)|中等|[已解决](search-a-2d-matrix-ii.cpp)|
 |268|[缺失数字](https://leetcode-cn.com/problems/missing-number/description/)|简单|[已解决](missing-number.cpp)|
