@@ -1,4 +1,4 @@
-|题号|标题|难度|状态|
+﻿|题号|标题|难度|状态|
 |--------------|--------------|--------------|--------------|
 |1|[两数之和](https://leetcode-cn.com/problems/two-sum/description/)|简单|[已解决](two-sum.cpp)|
 |2|[两数相加](https://leetcode-cn.com/problems/add-two-numbers/description/)|中等|[已解决](add-two-numbers.cpp)|
@@ -36,6 +36,7 @@
 |125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/description/)|简单|[已解决](valid-palindrome.cpp)|
 |136|[只出现一次的数字](https://leetcode-cn.com/problems/single-number/description/)|简单|[已解决](valid-palindrome.cpp)|
 |141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/description/)|简单|[已解决](linked-list-cycle.cpp)|
+|168|[Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/description/)|简单|[已解决](excel-sheet-column-title.cpp)|
 |169|[求众数](https://leetcode-cn.com/problems/majority-element/description/)|简单|[已解决](majority-element.cpp)|
 |171|[Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/description/)|简单|[已解决](excel-sheet-column-number.cpp)|
 |172|[阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/description/)|简单|[已解决](factorial-trailing-zeroes.cpp)|
