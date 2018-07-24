@@ -65,6 +65,7 @@
 |704|[二分查找](https://leetcode-cn.com/problems/binary-search/description/)|简单|[已解决](binary-search.cpp)|
 |709|[转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/description/)|简单|[已解决](to-lower-case.cpp)|
 |728|[自除数](https://leetcode-cn.com/problems/self-dividing-numbers/description/)|简单|[已解决](self-dividing-numbers.cpp)|
+|746|[使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/description/)|简单|[已解决](min-cost-climbing-stairs.cpp)|
 |796|[旋转字符串](https://leetcode-cn.com/problems/rotate-string/description/)|简单|[已解决](rotate-string.cpp)|
 |860|[柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/)|简单|[已解决](lemonade-change.cpp)|
 |868|[转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/description/)|简单|[已解决](transpose-matrix.cpp)|
