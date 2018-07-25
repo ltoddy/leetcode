@@ -47,6 +47,7 @@
 |240|[搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/description/)|中等|[已解决](search-a-2d-matrix-ii.cpp)|
 |258|[各位相加](https://leetcode-cn.com/problems/add-digits/description/)|简单|[已解决](add-digits.cpp)|
 |268|[缺失数字](https://leetcode-cn.com/problems/missing-number/description/)|简单|[已解决](missing-number.cpp)|
+|283|[移动零](https://leetcode-cn.com/problems/move-zeroes/description/)|简单|[已解决](move-zeroes.cpp)|
 |287|[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/description/)|中等|[已解决](find-the-duplicate-number.cpp)|
 |326|[3的幂](https://leetcode-cn.com/problems/power-of-three/description/)|简单|[已解决](power-of-three.cpp)|
 |342|[4的幂](https://leetcode-cn.com/problems/power-of-four/description/)|简单|[已解决](power-of-four.cpp)|
