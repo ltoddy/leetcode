@@ -32,3 +32,18 @@ If you have joined the NOIP or ICPC, I believe you are familiar with above lines
 
 Right, you can use everything in the c/cpp standara library. 
 It's very convenient to solve problems that about algorithm and datastruct.
+
+------------------------------------------------------------
+
+## contribute
+
+[see more](CONTRIBUTING.md)
+
+
+
+
+
+
+
+
+
