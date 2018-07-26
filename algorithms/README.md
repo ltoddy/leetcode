@@ -33,6 +33,7 @@
 |74|[搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/description/)|中等|[已解决](search-a-2d-matrix.cpp)|
 |91|[解码方法](https://leetcode-cn.com/problems/decode-ways/description/)|中等|[已解决](decode-ways.cpp)|
 |118|[杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/description/)|简单|[已解决](pascals-triangle.cpp)|
+|121|[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/description/)|简单|[已解决](best-time-to-buy-and-sell-stock.cpp)|
 |125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/description/)|简单|[已解决](valid-palindrome.cpp)|
 |136|[只出现一次的数字](https://leetcode-cn.com/problems/single-number/description/)|简单|[已解决](valid-palindrome.cpp)|
 |141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/description/)|简单|[已解决](linked-list-cycle.cpp)|
