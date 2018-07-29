@@ -64,6 +64,7 @@
 |412|[Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/description/)|简单|[已解决](fizz-buzz.cpp)|
 |414|[第三大的数](https://leetcode-cn.com/problems/third-maximum-number/description/)|简单|[已解决](third-maximum-number.cpp)|
 |448|[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/description/)|简单|[已解决](find-all-numbers-disappeared-in-an-array.cpp)|
+|492|[构造矩形](https://leetcode-cn.com/problems/construct-the-rectangle/description/)|简单|[已解决](construct-the-rectangle.cpp)|
 |504|[七进制数](https://leetcode-cn.com/problems/base-7/description/)|简单|[已解决](base-7.cpp)|
 |520|[检测大写字母](https://leetcode-cn.com/problems/detect-capital/description/)|简单|[已解决](detect-capital.cpp)|
 |541|[反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/description/)|简单|[已解决](reverse-string-ii.cpp)|
