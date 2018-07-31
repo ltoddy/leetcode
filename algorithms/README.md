@@ -20,6 +20,7 @@
 |37|[解数独](https://leetcode-cn.com/problems/sudoku-solver/description/)|困难|[已解决](sudoku-solver.cpp)|
 |41|[缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/description/)|困难|[已解决](first-missing-positive.cpp)|
 |46|[全排列](https://leetcode-cn.com/problems/permutations/description/)|中等|[已解决](permutations.cpp)|
+|48|[旋转图像](https://leetcode-cn.com/problems/rotate-image/description/)|中等|[已解决](rotate-image.cpp)|
 |50|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n/description/)|中等|[已解决](powx-n.cpp)|
 |53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/description/)|简单|[已解决](maximum-subarray.cpp)|
 |54|[螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/description/)|中等|[已解决](spiral-matrix.cpp)|
