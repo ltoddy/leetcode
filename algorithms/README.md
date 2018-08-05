@@ -13,6 +13,7 @@
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/)|简单|[已解决](merge-two-sorted-lists.cpp)|
 |22|[括号生成](https://leetcode-cn.com/problems/generate-parentheses/description/)|中等|[已解决](generate-parentheses.cpp)|
 |26|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/)|简单|[已解决](remove-duplicates-from-sorted-array.cpp)|
+|27|[移除元素](https://leetcode-cn.com/problems/remove-element/description/)|简单|[已解决](remove-element.cpp)|
 |28|[实现strStr()](https://leetcode-cn.com/problems/implement-strstr/description/)|简单|[已解决](implement-strstr.cpp)|
 |31|[下一个排列](https://leetcode-cn.com/problems/next-permutation/description/)|中等|[已解决](next-permutation.cpp)|
 |34|[在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|中等|[已解决](find-first-and-last-position-of-element-in-sorted-array.cpp)|
