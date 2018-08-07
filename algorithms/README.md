@@ -5,6 +5,7 @@
 |3|[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/)|中等|[已解决](longest-substring-without-repeating-characters.cpp)|
 |4|[两个排序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/description/)|困难|[已解决](median-of-two-sorted-arrays.cpp)|
 |5|[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/description/)|中等|[已解决](longest-palindromic-substring.cpp)|
+|6|[Z字形变换](https://leetcode-cn.com/problems/zigzag-conversion/description/)|中等|[已解决](zigzag-conversion.cpp)|
 |7|[反转整数](https://leetcode-cn.com/problems/reverse-integer/description/)|简单|[已解决](reverse-integer.cpp)|
 |8|[字符串转整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/description/)|中等|[已解决](string-to-integer-atoi.cpp)|
 |9|[回文数](https://leetcode-cn.com/problems/palindrome-number/description/)|简单|[已解决](palindrome-number.cpp)|
