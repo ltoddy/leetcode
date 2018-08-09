@@ -37,7 +37,7 @@ It's very convenient to solve problems that about algorithm and datastruct.
 
 ## contribute
 
-[see more](CONTRIBUTING.md)
+[see more](.github/CONTRIBUTING.md)
 
 
 
