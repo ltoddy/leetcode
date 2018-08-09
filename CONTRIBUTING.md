@@ -45,6 +45,8 @@
     //
     ```
 
+    ![multi-solution.png](./assets/multi-solution.png)
+
     如果你做的题目在本项目中没有，请在新建一个.cpp文件，然后添加你的答案，然后在对应文件夹下的READMD.md中添加上详情。
 
 - 第三步：
