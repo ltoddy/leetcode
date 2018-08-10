@@ -13,6 +13,7 @@
 |12|[整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/description/)|中等|[已解决](integer-to-roman.cpp)|
 |13|[罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/description/)|简单|[已解决](roman-to-integer.cpp)|
 |14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/description/)|简单|[已解决](longest-common-prefix.cpp)|
+|17|[电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/description/)|中等|[已解决](letter-combinations-of-a-phone-number.cpp)|
 |20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/description/)|简单|[已解决](valid-parentheses.cpp)|
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/)|简单|[已解决](merge-two-sorted-lists.cpp)|
 |22|[括号生成](https://leetcode-cn.com/problems/generate-parentheses/description/)|中等|[已解决](generate-parentheses.cpp)|
