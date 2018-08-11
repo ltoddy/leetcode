@@ -21,6 +21,7 @@
 |26|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/)|简单|[已解决](remove-duplicates-from-sorted-array.cpp)|
 |27|[移除元素](https://leetcode-cn.com/problems/remove-element/description/)|简单|[已解决](remove-element.cpp)|
 |28|[实现strStr()](https://leetcode-cn.com/problems/implement-strstr/description/)|简单|[已解决](implement-strstr.cpp)|
+|29|[两数相除](https://leetcode-cn.com/problems/divide-two-integers/description/)|中等|[已解决](divide-two-integers.cpp)|
 |31|[下一个排列](https://leetcode-cn.com/problems/next-permutation/description/)|中等|[已解决](next-permutation.cpp)|
 |34|[在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|中等|[已解决](find-first-and-last-position-of-element-in-sorted-array.cpp)|
 |35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/description/)|简单|[已解决](search-insert-position.cpp)|
