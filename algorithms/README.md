@@ -23,6 +23,7 @@
 |28|[实现strStr()](https://leetcode-cn.com/problems/implement-strstr/description/)|简单|[已解决](implement-strstr.cpp)|
 |29|[两数相除](https://leetcode-cn.com/problems/divide-two-integers/description/)|中等|[已解决](divide-two-integers.cpp)|
 |31|[下一个排列](https://leetcode-cn.com/problems/next-permutation/description/)|中等|[已解决](next-permutation.cpp)|
+|33|[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/description/)|中等|[已解决](search-in-rotated-sorted-array.cpp)|
 |34|[在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|中等|[已解决](find-first-and-last-position-of-element-in-sorted-array.cpp)|
 |35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/description/)|简单|[已解决](search-insert-position.cpp)|
 |37|[解数独](https://leetcode-cn.com/problems/sudoku-solver/description/)|困难|[已解决](sudoku-solver.cpp)|
