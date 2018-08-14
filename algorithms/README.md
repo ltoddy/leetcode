@@ -33,6 +33,7 @@
 |50|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n/description/)|中等|[已解决](powx-n.cpp)|
 |53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/description/)|简单|[已解决](maximum-subarray.cpp)|
 |54|[螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/description/)|中等|[已解决](spiral-matrix.cpp)|
+|55|[跳跃游戏](https://leetcode-cn.com/problems/jump-game/description/)|中等|[已解决](jump-game.cpp)|
 |58|[最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/description/)|简单|[已解决](length-of-last-word.cpp)|
 |59|[螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/description/)|中等|[已解决](spiral-matrix-ii.cpp)|
 |64|[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/description/)|中等|[已解决](minimum-path-sum.cpp)|
