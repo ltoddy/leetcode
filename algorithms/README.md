@@ -27,6 +27,7 @@
 |34|[在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|中等|[已解决](find-first-and-last-position-of-element-in-sorted-array.cpp)|
 |35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/description/)|简单|[已解决](search-insert-position.cpp)|
 |37|[解数独](https://leetcode-cn.com/problems/sudoku-solver/description/)|困难|[已解决](sudoku-solver.cpp)|
+|38|[报数](https://leetcode-cn.com/problems/count-and-say/description/)|简单|[已解决](count-and-say.cpp)|
 |41|[缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/description/)|困难|[已解决](first-missing-positive.cpp)|
 |46|[全排列](https://leetcode-cn.com/problems/permutations/description/)|中等|[已解决](permutations.cpp)|
 |48|[旋转图像](https://leetcode-cn.com/problems/rotate-image/description/)|中等|[已解决](rotate-image.cpp)|
