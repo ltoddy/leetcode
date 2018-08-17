@@ -63,6 +63,7 @@
 |191|[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/description/)|简单|[已解决](number-of-1-bits.cpp)|
 |204|[计数质数](https://leetcode-cn.com/problems/count-primes/description/)|简单|[已解决](count-primes.cpp)|
 |223|[矩形面积](https://leetcode-cn.com/problems/rectangle-area/description/)|中等|[已解决](rectangle-area.cpp)|
+|225|[用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/description/)|简单|[已解决](implement-stack-using-queues.cpp)|
 |231|[2的幂](https://leetcode-cn.com/problems/power-of-two/description/)|简单|[已解决](power-of-two.cpp)|
 |240|[搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/description/)|中等|[已解决](search-a-2d-matrix-ii.cpp)|
 |258|[各位相加](https://leetcode-cn.com/problems/add-digits/description/)|简单|[已解决](add-digits.cpp)|
