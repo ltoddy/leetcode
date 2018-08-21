@@ -105,5 +105,6 @@
 |796|[旋转字符串](https://leetcode-cn.com/problems/rotate-string/description/)|简单|[已解决](rotate-string.cpp)|
 |860|[柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/)|简单|[已解决](lemonade-change.cpp)|
 |832|[翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/)|简单|[已解决](flipping-an-image.cpp)|
+|852|[山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/description/)|简单|[已解决](peak-index-in-a-mountain-array.cpp)|
 |868|[转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/description/)|简单|[已解决](transpose-matrix.cpp)|
 |876|[链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/description/)|简单|[已解决](middle-of-the-linked-list.cpp)|
