@@ -47,6 +47,9 @@ It's very convenient to solve problems that about algorithm and datastruct.
 [see more](.github/CONTRIBUTING.md)
 
 
+## LICENSE
+
+[![GitHub license](https://img.shields.io/github/license/ltoddy/leetcode.svg)](https://github.com/ltoddy/leetcode/blob/master/LICENSE)
 
 
 
