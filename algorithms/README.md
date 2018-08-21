@@ -95,6 +95,7 @@
 |633|[平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/description/)|简单|[已解决](sum-of-square-numbers.cpp)|
 |657|[判断路线成圈](https://leetcode-cn.com/problems/judge-route-circle/description/)|简单|[已解决](judge-route-circle.cpp)|
 |704|[二分查找](https://leetcode-cn.com/problems/binary-search/description/)|简单|[已解决](binary-search.cpp)|
+|705|[设计哈希集合](https://leetcode-cn.com/problems/design-hashset/description/)|简单|[已解决](design-hashset.cpp)|
 |706|[设计哈希映射](https://leetcode-cn.com/problems/design-hashmap/description/)|简单|[已解决](design-hashmap.cpp)|
 |709|[转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/description/)|简单|[已解决](to-lower-case.cpp)|
 |728|[自除数](https://leetcode-cn.com/problems/self-dividing-numbers/description/)|简单|[已解决](self-dividing-numbers.cpp)|
