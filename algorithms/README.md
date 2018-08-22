@@ -48,6 +48,7 @@
 |83|[删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/description/)|简单|[已解决](remove-duplicates-from-sorted-list.cpp)|
 |88|[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/description/)|简单|[已解决](merge-sorted-array.cpp)|
 |91|[解码方法](https://leetcode-cn.com/problems/decode-ways/description/)|中等|[已解决](decode-ways.cpp)|
+|100|[相同的树](https://leetcode-cn.com/problems/same-tree/description/)|简单|[已解决](same-tree.cpp)|
 |118|[杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/description/)|简单|[已解决](pascals-triangle.cpp)|
 |119|[杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/description/)|简单|[已解决](pascals-triangle-ii.cpp)|
 |121|[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/description/)|简单|[已解决](best-time-to-buy-and-sell-stock.cpp)|
