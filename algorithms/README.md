@@ -109,6 +109,7 @@
 |746|[使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/description/)|简单|[已解决](min-cost-climbing-stairs.cpp)|
 |747|[至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/description/)|简单|[已解决](largest-number-at-least-twice-of-others.cpp)|
 |762|[二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/description/)|简单|[已解决](prime-number-of-set-bits-in-binary-representation.cpp)|
+|766|[托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/description/)|简单|[已解决](toeplitz-matrix.py)|
 |796|[旋转字符串](https://leetcode-cn.com/problems/rotate-string/description/)|简单|[已解决](rotate-string.cpp)|
 |860|[柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/)|简单|[已解决](lemonade-change.cpp)|
 |832|[翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/)|简单|[已解决](flipping-an-image.cpp)|
