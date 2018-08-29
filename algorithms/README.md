@@ -90,6 +90,7 @@
 |374|[猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/description/)|简单|[已解决](guess-number-higher-or-lower.cpp)|
 |387|[字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/description/)|简单|[已解决](first-unique-character-in-a-string.cpp)|
 |400|[第N个数字](https://leetcode-cn.com/problems/nth-digit/description/)|简单|[已解决](nth-digit.cpp)|
+|404|[左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/description/)|简单|[已解决](sum-of-left-leaves.cpp)|
 |405|[数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/description/)|简单|[已解决](convert-a-number-to-hexadecimal.cpp)|
 |412|[Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/description/)|简单|[已解决](fizz-buzz.cpp)|
 |414|[第三大的数](https://leetcode-cn.com/problems/third-maximum-number/description/)|简单|[已解决](third-maximum-number.cpp)|
