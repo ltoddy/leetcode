@@ -75,6 +75,7 @@
 |231|[2的幂](https://leetcode-cn.com/problems/power-of-two/description/)|简单|[已解决](power-of-two.cpp)|
 |232|[用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/description/)|简单|[已解决](implement-queue-using-stacks.cpp)|
 |234|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/description/)|简单|[已解决](palindrome-linked-list.cpp)|
+|237|[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/description/)|简单|[已解决](delete-node-in-a-linked-list.cpp)|
 |240|[搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/description/)|中等|[已解决](search-a-2d-matrix-ii.cpp)|
 |258|[各位相加](https://leetcode-cn.com/problems/add-digits/description/)|简单|[已解决](add-digits.cpp)|
 |268|[缺失数字](https://leetcode-cn.com/problems/missing-number/description/)|简单|[已解决](missing-number.cpp)|
