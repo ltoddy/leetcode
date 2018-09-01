@@ -72,6 +72,7 @@
 |203|[删除链表中的节点](https://leetcode-cn.com/problems/remove-linked-list-elements/description/)|简单|[已解决](remove-linked-list-elements.cpp)|
 |204|[计数质数](https://leetcode-cn.com/problems/count-primes/description/)|简单|[已解决](count-primes.cpp)|
 |206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/description/)|简单|[已解决](reverse-linked-list.cpp)|
+|217|[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/description/)|简单|[已解决](contains-duplicate.cpp)|
 |223|[矩形面积](https://leetcode-cn.com/problems/rectangle-area/description/)|中等|[已解决](rectangle-area.cpp)|
 |225|[用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/description/)|简单|[已解决](implement-stack-using-queues.cpp)|
 |226|[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/)|简单|[已解决](invert-binary-tree.cpp)|
