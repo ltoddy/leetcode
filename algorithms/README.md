@@ -61,6 +61,7 @@
 |141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/description/)|简单|[已解决](linked-list-cycle.cpp)|
 |155|[最小栈](https://leetcode-cn.com/problems/min-stack/description/)|简单|[已解决](min-stack.cpp)|
 |160|[相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/description/)|简单|[已解决](intersection-of-two-linked-lists.cpp)|
+|167|[两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/description/)|简单|[已解决](two-sum-ii-input-array-is-sorted.cpp)|
 |168|[Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/description/)|简单|[已解决](excel-sheet-column-title.cpp)|
 |169|[求众数](https://leetcode-cn.com/problems/majority-element/description/)|简单|[已解决](majority-element.cpp)|
 |171|[Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/description/)|简单|[已解决](excel-sheet-column-number.cpp)|
