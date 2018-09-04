@@ -111,6 +111,7 @@
 |520|[检测大写字母](https://leetcode-cn.com/problems/detect-capital/description/)|简单|[已解决](detect-capital.cpp)|
 |541|[反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/description/)|简单|[已解决](reverse-string-ii.cpp)|
 |551|[学生出勤纪录 I](https://leetcode-cn.com/problems/student-attendance-record-i/description/)|简单|[已解决](student-attendance-record-i.cpp)|
+|559|[N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/description/)|简单|[已解决](maximum-depth-of-n-ary-tree.cpp)|
 |561|[数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/description/)|简单|[已解决](array-partition-i.cpp)|
 |628|[三个数的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/description/)|简单|[已解决](maximum-product-of-three-numbers.cpp)|
 |633|[平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/description/)|简单|[已解决](sum-of-square-numbers.cpp)|
