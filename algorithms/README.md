@@ -74,6 +74,7 @@
 |205|[同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/description/)|简单|[已解决](isomorphic-strings.cpp)|
 |206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/description/)|简单|[已解决](reverse-linked-list.cpp)|
 |217|[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/description/)|简单|[已解决](contains-duplicate.cpp)|
+|219|[存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/description/)|简单|[已解决](contains-duplicate-ii.cpp)|
 |223|[矩形面积](https://leetcode-cn.com/problems/rectangle-area/description/)|中等|[已解决](rectangle-area.cpp)|
 |225|[用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/description/)|简单|[已解决](implement-stack-using-queues.cpp)|
 |226|[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/)|简单|[已解决](invert-binary-tree.cpp)|
