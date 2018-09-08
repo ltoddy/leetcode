@@ -83,6 +83,7 @@
 |234|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/description/)|简单|[已解决](palindrome-linked-list.cpp)|
 |237|[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/description/)|简单|[已解决](delete-node-in-a-linked-list.cpp)|
 |240|[搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/description/)|中等|[已解决](search-a-2d-matrix-ii.cpp)|
+|257|[二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/description/)|简单|[已解决](binary-tree-paths.cpp)|
 |258|[各位相加](https://leetcode-cn.com/problems/add-digits/description/)|简单|[已解决](add-digits.cpp)|
 |268|[缺失数字](https://leetcode-cn.com/problems/missing-number/description/)|简单|[已解决](missing-number.cpp)|
 |283|[移动零](https://leetcode-cn.com/problems/move-zeroes/description/)|简单|[已解决](move-zeroes.cpp)|
