@@ -81,6 +81,7 @@
 |231|[2的幂](https://leetcode-cn.com/problems/power-of-two/description/)|简单|[已解决](power-of-two.cpp)|
 |232|[用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/description/)|简单|[已解决](implement-queue-using-stacks.cpp)|
 |234|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/description/)|简单|[已解决](palindrome-linked-list.cpp)|
+|235|[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)|简单|[已解决](lowest-common-ancestor-of-a-binary-search-tree.cpp)|
 |237|[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/description/)|简单|[已解决](delete-node-in-a-linked-list.cpp)|
 |240|[搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/description/)|中等|[已解决](search-a-2d-matrix-ii.cpp)|
 |257|[二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/description/)|简单|[已解决](binary-tree-paths.cpp)|
