@@ -132,6 +132,7 @@
 |657|[判断路线成圈](https://leetcode-cn.com/problems/judge-route-circle/description/)|简单|[已解决](judge-route-circle.cpp)|
 |669|[修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree/description/)|简单|[已解决](trim-a-binary-search-tree.cpp)|
 |671|[二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/description/)|简单|[已解决](second-minimum-node-in-a-binary-tree.cpp)|
+|682|[棒球比赛](https://leetcode-cn.com/problems/baseball-game/description/)|简单|[已解决](baseball-game.cpp)|
 |690|[员工的重要性](https://leetcode-cn.com/problems/employee-importance/description/)|简单|[已解决](employee-importance.cpp)|
 |700|[二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/description/)|简单|[已解决](search-in-a-binary-search-tree.cpp)|
 |704|[二分查找](https://leetcode-cn.com/problems/binary-search/description/)|简单|[已解决](binary-search.cpp)|
