@@ -103,6 +103,7 @@
 |387|[字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/description/)|简单|[已解决](first-unique-character-in-a-string.cpp)|
 |389|[找不同](https://leetcode-cn.com/problems/find-the-difference/description/)|简单|[已解决](find-the-difference.cpp)|
 |400|[第N个数字](https://leetcode-cn.com/problems/nth-digit/description/)|简单|[已解决](nth-digit.cpp)|
+|401|[二进制手表](https://leetcode-cn.com/problems/binary-watch/description/)|简单|[已解决](binary-watch.cpp)|
 |404|[左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/description/)|简单|[已解决](sum-of-left-leaves.cpp)|
 |405|[数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/description/)|简单|[已解决](convert-a-number-to-hexadecimal.cpp)|
 |412|[Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/description/)|简单|[已解决](fizz-buzz.cpp)|
