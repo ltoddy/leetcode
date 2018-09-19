@@ -118,6 +118,7 @@
 |504|[七进制数](https://leetcode-cn.com/problems/base-7/description/)|简单|[已解决](base-7.cpp)|
 |507|[完美数](https://leetcode-cn.com/problems/perfect-number/description/)|简单|[已解决](perfect-number.cpp)|
 |520|[检测大写字母](https://leetcode-cn.com/problems/detect-capital/description/)|简单|[已解决](detect-capital.cpp)|
+|532|[数组中的K-diff数对](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/description/)|简单|[已解决](k-diff-pairs-in-an-array.cpp)|
 |538|[把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/description/)|简单|[已解决](convert-bst-to-greater-tree.cpp)|
 |541|[反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/description/)|简单|[已解决](reverse-string-ii.cpp)|
 |543|[二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/description/)|简单|[已解决](diameter-of-binary-tree.cpp)|
