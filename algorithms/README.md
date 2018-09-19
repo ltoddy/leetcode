@@ -157,3 +157,4 @@
 |852|[山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/description/)|简单|[已解决](peak-index-in-a-mountain-array.cpp)|
 |868|[转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/description/)|简单|[已解决](transpose-matrix.cpp)|
 |876|[链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/description/)|简单|[已解决](middle-of-the-linked-list.cpp)|
+|905|[按奇偶校验排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/description/)|简单|[已解决](sort-array-by-parity.cpp)|
