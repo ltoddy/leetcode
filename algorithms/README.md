@@ -155,10 +155,11 @@
 |766|[托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/description/)|简单|[已解决](toeplitz-matrix.py)|
 |771|[宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/description/)|简单|[已解决](jewels-and-stones.py)|
 |796|[旋转字符串](https://leetcode-cn.com/problems/rotate-string/description/)|简单|[已解决](rotate-string.cpp)|
-|844|[比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/description/)|简单|[已解决](backspace-string-compare.cpp)|
-|860|[柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/)|简单|[已解决](lemonade-change.cpp)|
 |832|[翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/)|简单|[已解决](flipping-an-image.cpp)|
+|844|[比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/description/)|简单|[已解决](backspace-string-compare.cpp)|
 |852|[山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/description/)|简单|[已解决](peak-index-in-a-mountain-array.cpp)|
+|860|[柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/)|简单|[已解决](lemonade-change.cpp)|
 |868|[转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/description/)|简单|[已解决](transpose-matrix.cpp)|
+|872|[叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/description/)|简单|[已解决](leaf-similar-trees.py)|
 |876|[链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/description/)|简单|[已解决](middle-of-the-linked-list.cpp)|
 |905|[按奇偶校验排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/description/)|简单|[已解决](sort-array-by-parity.cpp)|
