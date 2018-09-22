@@ -156,6 +156,7 @@
 |766|[托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/description/)|简单|[已解决](toeplitz-matrix.py)|
 |771|[宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/description/)|简单|[已解决](jewels-and-stones.py)|
 |796|[旋转字符串](https://leetcode-cn.com/problems/rotate-string/description/)|简单|[已解决](rotate-string.cpp)|
+|804|[唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/description/)|简单|[已解决](unique-morse-code-words.cpp)|
 |832|[翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/)|简单|[已解决](flipping-an-image.cpp)|
 |844|[比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/description/)|简单|[已解决](backspace-string-compare.cpp)|
 |852|[山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/description/)|简单|[已解决](peak-index-in-a-mountain-array.cpp)|
