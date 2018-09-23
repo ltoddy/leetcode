@@ -164,4 +164,5 @@
 |868|[转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/description/)|简单|[已解决](transpose-matrix.cpp)|
 |872|[叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/description/)|简单|[已解决](leaf-similar-trees.py)|
 |876|[链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/description/)|简单|[已解决](middle-of-the-linked-list.cpp)|
+|892|[三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/description/)|简单|[已解决](surface-area-of-3d-shapes.cpp)|
 |905|[按奇偶校验排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/description/)|简单|[已解决](sort-array-by-parity.cpp)|
