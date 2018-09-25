@@ -134,6 +134,7 @@
 |589|[N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/)|简单|[已解决](n-ary-tree-preorder-traversal.cpp)|
 |590|[N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/description/)|简单|[已解决](n-ary-tree-postorder-traversal.cpp)|
 |606|[根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/description/)|简单|[已解决](construct-string-from-binary-tree.cpp)|
+|622|[设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/description/)|简单|[已解决](design-circular-queue.cpp)|
 |628|[三个数的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/description/)|简单|[已解决](maximum-product-of-three-numbers.cpp)|
 |633|[平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/description/)|简单|[已解决](sum-of-square-numbers.cpp)|
 |637|[二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/description/)|简单|[已解决](average-of-levels-in-binary-tree.cpp)|
