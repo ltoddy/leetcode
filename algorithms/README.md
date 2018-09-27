@@ -135,6 +135,7 @@
 |566|[重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/description/)|简单|[已解决](reshape-the-matrix.cpp)|
 |589|[N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/)|简单|[已解决](n-ary-tree-preorder-traversal.cpp)|
 |590|[N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/description/)|简单|[已解决](n-ary-tree-postorder-traversal.cpp)|
+|599|[两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/description/)|简单|[已解决](minimum-index-sum-of-two-lists.cpp)|
 |606|[根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/description/)|简单|[已解决](construct-string-from-binary-tree.cpp)|
 |617|[合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/description/)|简单|[已解决](merge-two-binary-trees.cpp)|
 |622|[设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/description/)|简单|[已解决](design-circular-queue.cpp)|
