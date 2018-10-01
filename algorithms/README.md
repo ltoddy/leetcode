@@ -89,6 +89,7 @@
 |242|[有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/)|简单|[已解决](valid-anagram.cpp)|
 |257|[二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/description/)|简单|[已解决](binary-tree-paths.cpp)|
 |258|[各位相加](https://leetcode-cn.com/problems/add-digits/description/)|简单|[已解决](add-digits.cpp)|
+|263|[丑数](https://leetcode-cn.com/problems/ugly-number/description/)|简单|[已解决](ugly-number.cpp)|
 |268|[缺失数字](https://leetcode-cn.com/problems/missing-number/description/)|简单|[已解决](missing-number.cpp)|
 |283|[移动零](https://leetcode-cn.com/problems/move-zeroes/description/)|简单|[已解决](move-zeroes.cpp)|
 |287|[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/description/)|中等|[已解决](find-the-duplicate-number.cpp)|
