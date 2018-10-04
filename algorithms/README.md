@@ -189,3 +189,4 @@
 |892|[三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/description/)|简单|[已解决](surface-area-of-3d-shapes.cpp)|
 |905|[按奇偶校验排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/description/)|简单|[已解决](sort-array-by-parity.cpp)|
 |908|[最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/description/)|简单|[已解决](smallest-range-i.cpp)|
+|914|[卡牌分组](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/description/)|简单|[已解决](x-of-a-kind-in-a-deck-of-cards.cpp)|
