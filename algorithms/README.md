@@ -120,6 +120,7 @@
 |429|[N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/description/)|简单|[已解决](n-ary-tree-level-order-traversal.cpp)|
 |437|[路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/description/)|简单|[已解决](path-sum-iii.cpp)|
 |441|[排列硬币](https://leetcode-cn.com/problems/arranging-coins/description/)|简单|[已解决](arranging-coins.cpp)|
+|447|[回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/description/)|简单|[已解决](number-of-boomerangs.py)|
 |448|[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/description/)|简单|[已解决](find-all-numbers-disappeared-in-an-array.cpp)|
 |455|[分发饼干](https://leetcode-cn.com/problems/assign-cookies/description/)|简单|[已解决](assign-cookies.cpp)|
 |461|[汉明距离](https://leetcode-cn.com/problems/hamming-distance/description/)|简单|[已解决](hamming-distance.cpp)|
