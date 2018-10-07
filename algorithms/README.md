@@ -131,6 +131,7 @@
 |492|[构造矩形](https://leetcode-cn.com/problems/construct-the-rectangle/description/)|简单|[已解决](construct-the-rectangle.cpp)|
 |496|[下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/description/)|简单|[已解决](next-greater-element-i.cpp)|
 |500|[键盘行](https://leetcode-cn.com/problems/keyboard-row/description/)|简单|[已解决](keyboard-row.cpp)|
+|501|[二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/description/)|简单|[已解决](find-mode-in-binary-search-tree.py)|
 |504|[七进制数](https://leetcode-cn.com/problems/base-7/description/)|简单|[已解决](base-7.cpp)|
 |506|[相对名次](https://leetcode-cn.com/problems/relative-ranks/description/)|简单|[已解决](relative-ranks.cpp)|
 |507|[完美数](https://leetcode-cn.com/problems/perfect-number/description/)|简单|[已解决](perfect-number.cpp)|
