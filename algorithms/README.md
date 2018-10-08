@@ -119,6 +119,7 @@
 |415|[字符串相加](https://leetcode-cn.com/problems/add-strings/description/)|简单|[已解决](add-strings.cpp)|
 |427|[建立四叉树](https://leetcode-cn.com/problems/construct-quad-tree/description/)|简单|[已解决](construct-quad-tree.cpp)|
 |429|[N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/description/)|简单|[已解决](n-ary-tree-level-order-traversal.cpp)|
+|434|[字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/description/)|简单|[已解决](number-of-segments-in-a-string.py)|
 |437|[路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/description/)|简单|[已解决](path-sum-iii.cpp)|
 |441|[排列硬币](https://leetcode-cn.com/problems/arranging-coins/description/)|简单|[已解决](arranging-coins.cpp)|
 |447|[回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/description/)|简单|[已解决](number-of-boomerangs.py)|
