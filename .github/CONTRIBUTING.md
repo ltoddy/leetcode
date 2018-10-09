@@ -59,3 +59,12 @@
     > git push origin algorithms/<题目名称>
 
     去github上提一个Pulll request，我会尽可能第一时间merge你的代码。
+
+
+### **额外的**:
+
+*请注意代码风格*:
+
+- Python: 按照PEP8中所推荐的风格编写代码.
+
+- C/CPP: 以K&R风格编写代码.
