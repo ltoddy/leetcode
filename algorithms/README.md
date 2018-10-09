@@ -126,6 +126,7 @@
 |447|[回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/description/)|简单|[已解决](number-of-boomerangs.py)|
 |448|[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/description/)|简单|[已解决](find-all-numbers-disappeared-in-an-array.cpp)|
 |455|[分发饼干](https://leetcode-cn.com/problems/assign-cookies/description/)|简单|[已解决](assign-cookies.cpp)|
+|458|[可怜的小猪](https://leetcode-cn.com/problems/poor-pigs/description/)|简单|[已解决](poor-pigs.cpp)|
 |461|[汉明距离](https://leetcode-cn.com/problems/hamming-distance/description/)|简单|[已解决](hamming-distance.cpp)|
 |463|[岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/description/)|简单|[已解决](island-perimeter.cpp)|
 |476|[数字的补数](https://leetcode-cn.com/problems/number-complement/description/)|简单|[已解决](number-complement.py)|
