@@ -94,6 +94,7 @@
 |263|[丑数](https://leetcode-cn.com/problems/ugly-number/description/)|简单|[已解决](ugly-number.cpp)|
 |268|[缺失数字](https://leetcode-cn.com/problems/missing-number/description/)|简单|[已解决](missing-number.cpp)|
 |283|[移动零](https://leetcode-cn.com/problems/move-zeroes/description/)|简单|[已解决](move-zeroes.cpp)|
+|278|[第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/description/)|简单|[已解决](first-bad-version.cpp)|
 |287|[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/description/)|中等|[已解决](find-the-duplicate-number.cpp)|
 |290|[单词模式](https://leetcode-cn.com/problems/word-pattern/description/)|简单|[已解决](word-pattern.py)|
 |303|[区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/description/)|简单|[已解决](range-sum-query-immutable.cpp)|
