@@ -189,6 +189,7 @@
 |812|[最大三角形面积](https://leetcode-cn.com/problems/largest-triangle-area/description/)|简单|[已解决](largest-triangle-area.cpp)|
 |819|[最常见的单词](https://leetcode-cn.com/problems/most-common-word/description/)|简单|[已解决](most-common-word.py)|
 |821|[字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/description/)|简单|[已解决](shortest-distance-to-a-character.cpp)|
+|824|[山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/description/)|简单|[已解决](goat-latin.py)|
 |832|[翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/)|简单|[已解决](flipping-an-image.cpp)|
 |844|[比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/description/)|简单|[已解决](backspace-string-compare.cpp)|
 |852|[山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/description/)|简单|[已解决](peak-index-in-a-mountain-array.cpp)|
