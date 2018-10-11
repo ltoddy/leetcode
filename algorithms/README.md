@@ -149,6 +149,7 @@
 |559|[N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/description/)|简单|[已解决](maximum-depth-of-n-ary-tree.cpp)|
 |561|[数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/description/)|简单|[已解决](array-partition-i.cpp)|
 |566|[重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/description/)|简单|[已解决](reshape-the-matrix.cpp)|
+|572|[另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/description/)|简单|[已解决](subtree-of-another-tree.cpp)|
 |575|[分糖果](https://leetcode-cn.com/problems/distribute-candies/description/)|简单|[已解决](distribute-candies.cpp)|
 |589|[N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/)|简单|[已解决](n-ary-tree-preorder-traversal.cpp)|
 |590|[N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/description/)|简单|[已解决](n-ary-tree-postorder-traversal.cpp)|
