@@ -155,6 +155,7 @@
 |590|[N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/description/)|简单|[已解决](n-ary-tree-postorder-traversal.cpp)|
 |598|[范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/description/)|简单|[已解决](range-addition-ii.cpp)|
 |599|[两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/description/)|简单|[已解决](minimum-index-sum-of-two-lists.cpp)|
+|605|[种花问题](https://leetcode-cn.com/problems/can-place-flowers/description/)|简单|[已解决](can-place-flowers.cpp)|
 |606|[根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/description/)|简单|[已解决](construct-string-from-binary-tree.cpp)|
 |617|[合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/description/)|简单|[已解决](merge-two-binary-trees.cpp)|
 |622|[设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/description/)|简单|[已解决](design-circular-queue.cpp)|
