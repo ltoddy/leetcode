@@ -42,6 +42,10 @@ It's very convenient to solve problems that about algorithm and datastruct.
 
 ------------------------------------------------------------
 
+## diary
+
+- [2018-10-13](diary/2018-10-13.md)
+
 ## contribute
 
 [see more](.github/CONTRIBUTING.md)
