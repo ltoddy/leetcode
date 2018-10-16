@@ -166,6 +166,7 @@
 |643|[子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i/description/)|简单|[已解决](maximum-average-subarray-i.cpp)|
 |653|[两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/description/)|简单|[已解决](two-sum-iv-input-is-a-bst.cpp)|
 |657|[判断路线成圈](https://leetcode-cn.com/problems/judge-route-circle/description/)|简单|[已解决](judge-route-circle.cpp)|
+|661|[图片平滑器](https://leetcode-cn.com/problems/image-smoother/description/)|简单|[已解决](image-smoother.cpp)|
 |669|[修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree/description/)|简单|[已解决](trim-a-binary-search-tree.cpp)|
 |671|[二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/description/)|简单|[已解决](second-minimum-node-in-a-binary-tree.cpp)|
 |680|[验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/description/)|简单|[已解决](valid-palindrome-ii.py)|
