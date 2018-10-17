@@ -164,6 +164,7 @@
 |633|[平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/description/)|简单|[已解决](sum-of-square-numbers.cpp)|
 |637|[二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/description/)|简单|[已解决](average-of-levels-in-binary-tree.cpp)|
 |643|[子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i/description/)|简单|[已解决](maximum-average-subarray-i.cpp)|
+|645|[错误的集合](https://leetcode-cn.com/problems/set-mismatch/description/)|简单|[已解决](set-mismatch.cpp)|
 |653|[两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/description/)|简单|[已解决](two-sum-iv-input-is-a-bst.cpp)|
 |657|[判断路线成圈](https://leetcode-cn.com/problems/judge-route-circle/description/)|简单|[已解决](judge-route-circle.cpp)|
 |661|[图片平滑器](https://leetcode-cn.com/problems/image-smoother/description/)|简单|[已解决](image-smoother.cpp)|
