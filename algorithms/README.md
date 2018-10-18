@@ -171,6 +171,7 @@
 |665|[非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/description/)|简单|[已解决](non-decreasing-array.cpp)|
 |669|[修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree/description/)|简单|[已解决](trim-a-binary-search-tree.cpp)|
 |671|[二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/description/)|简单|[已解决](second-minimum-node-in-a-binary-tree.cpp)|
+|674|[最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/description/)|简单|[已解决](longest-continuous-increasing-subsequence.cpp)|
 |680|[验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/description/)|简单|[已解决](valid-palindrome-ii.py)|
 |682|[棒球比赛](https://leetcode-cn.com/problems/baseball-game/description/)|简单|[已解决](baseball-game.cpp)|
 |690|[员工的重要性](https://leetcode-cn.com/problems/employee-importance/description/)|简单|[已解决](employee-importance.cpp)|
