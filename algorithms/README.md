@@ -206,6 +206,7 @@
 |832|[翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/)|简单|[已解决](flipping-an-image.cpp)|
 |844|[比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/description/)|简单|[已解决](backspace-string-compare.cpp)|
 |852|[山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/description/)|简单|[已解决](peak-index-in-a-mountain-array.cpp)|
+|859|[亲密字符串](https://leetcode-cn.com/problems/buddy-strings/description/)|简单|[已解决](buddy-strings.cpp)|
 |860|[柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/)|简单|[已解决](lemonade-change.cpp)|
 |867|[转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/description/)|简单|[已解决](transpose-matrix.cpp)|
 |868|[二进制间距](https://leetcode-cn.com/problems/binary-gap/description/)|简单|[已解决](binary-gap.cpp)|
