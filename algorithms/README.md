@@ -127,6 +127,7 @@
 |441|[排列硬币](https://leetcode-cn.com/problems/arranging-coins/description/)|简单|[已解决](arranging-coins.cpp)|
 |447|[回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/description/)|简单|[已解决](number-of-boomerangs.py)|
 |448|[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/description/)|简单|[已解决](find-all-numbers-disappeared-in-an-array.cpp)|
+|453|[最小移动次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/description/)|简单|[已解决](minimum-moves-to-equal-array-elements.py)|
 |455|[分发饼干](https://leetcode-cn.com/problems/assign-cookies/description/)|简单|[已解决](assign-cookies.cpp)|
 |458|[可怜的小猪](https://leetcode-cn.com/problems/poor-pigs/description/)|简单|[已解决](poor-pigs.cpp)|
 |461|[汉明距离](https://leetcode-cn.com/problems/hamming-distance/description/)|简单|[已解决](hamming-distance.cpp)|
