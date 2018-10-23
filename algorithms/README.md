@@ -197,6 +197,7 @@
 |762|[二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/description/)|简单|[已解决](prime-number-of-set-bits-in-binary-representation.cpp)|
 |766|[托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/description/)|简单|[已解决](toeplitz-matrix.py)|
 |771|[宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/description/)|简单|[已解决](jewels-and-stones.py)|
+|783|[二叉搜索树结点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/description/)|简单|[已解决](minimum-distance-between-bst-nodes.cpp)|
 |796|[旋转字符串](https://leetcode-cn.com/problems/rotate-string/description/)|简单|[已解决](rotate-string.cpp)|
 |804|[唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/description/)|简单|[已解决](unique-morse-code-words.cpp)|
 |806|[写字符串需要的行数](https://leetcode-cn.com/problems/number-of-lines-to-write-string/description/)|简单|[已解决](number-of-lines-to-write-string.py)|
