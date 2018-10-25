@@ -15,5 +15,3 @@ public:
         return res;
     }
 };
-
-|482|[密钥格式化](https://leetcode-cn.com/problems/license-key-formatting/description/)|简单|[已解决](license-key-formatting.cpp)|
