@@ -179,6 +179,7 @@
 |674|[最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/description/)|简单|[已解决](longest-continuous-increasing-subsequence.cpp)|
 |680|[验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/description/)|简单|[已解决](valid-palindrome-ii.py)|
 |682|[棒球比赛](https://leetcode-cn.com/problems/baseball-game/description/)|简单|[已解决](baseball-game.cpp)|
+|686|[重复叠加字符串匹配](https://leetcode-cn.com/problems/repeated-string-match/description/)|简单|[已解决](repeated-string-match.cpp)|
 |690|[员工的重要性](https://leetcode-cn.com/problems/employee-importance/description/)|简单|[已解决](employee-importance.cpp)|
 |693|[交替位二进制数](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/description/)|简单|[已解决](binary-number-with-alternating-bits.cpp)|
 |695|[岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/description/)|简单|[已解决](max-area-of-island.cpp)|
