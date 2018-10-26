@@ -209,7 +209,6 @@
 |821|[字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/description/)|简单|[已解决](shortest-distance-to-a-character.cpp)|
 |824|[山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/description/)|简单|[已解决](goat-latin.py)|
 |830|[较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/description/)|简单|[已解决](positions-of-large-groups.cpp)|
-
 |832|[翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/)|简单|[已解决](flipping-an-image.cpp)|
 |836|[矩形重叠](https://leetcode-cn.com/problems/rectangle-overlap/description/)|简单|[已解决](rectangle-overlap.cpp)|
 |844|[比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/description/)|简单|[已解决](backspace-string-compare.cpp)|
