@@ -98,6 +98,7 @@
 |278|[第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/description/)|简单|[已解决](first-bad-version.cpp)|
 |287|[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/description/)|中等|[已解决](find-the-duplicate-number.cpp)|
 |290|[单词模式](https://leetcode-cn.com/problems/word-pattern/description/)|简单|[已解决](word-pattern.py)|
+|292|[Nim游戏](https://leetcode-cn.com/problems/nim-game/description/)|简单|[已解决](nim-game.cpp)|
 |303|[区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/description/)|简单|[已解决](range-sum-query-immutable.cpp)|
 |326|[3的幂](https://leetcode-cn.com/problems/power-of-three/description/)|简单|[已解决](power-of-three.cpp)|
 |342|[4的幂](https://leetcode-cn.com/problems/power-of-four/description/)|简单|[已解决](power-of-four.cpp)|
