@@ -126,6 +126,7 @@
 |437|[路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/description/)|简单|[已解决](path-sum-iii.cpp)|
 |438|[找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/description/)|简单|[已解决](find-all-anagrams-in-a-string.cpp)|
 |441|[排列硬币](https://leetcode-cn.com/problems/arranging-coins/description/)|简单|[已解决](arranging-coins.cpp)|
+|443|[压缩字符串](https://leetcode-cn.com/problems/string-compression/description/)|简单|[已解决](string-compression.py)|
 |447|[回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/description/)|简单|[已解决](number-of-boomerangs.py)|
 |448|[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/description/)|简单|[已解决](find-all-numbers-disappeared-in-an-array.cpp)|
 |453|[最小移动次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/description/)|简单|[已解决](minimum-moves-to-equal-array-elements.py)|
