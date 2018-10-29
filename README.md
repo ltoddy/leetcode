@@ -14,7 +14,7 @@
 
 ### Why should we do algorithm problems
 
-It's undeniable that almost all programmer are API caller(laugh). 
+It's undeniable that almost all programmer are API caller(laugh).
 But we use code to solve problems, so we need to improve out **ability** to solve problems with code.
 
 There is a way to improve out ability that do the algorithm problems.
@@ -37,13 +37,14 @@ LeetCode uses the code by default.
 
 If you have joined the NOIP or ICPC, I believe you are familiar with above lines of code.
 
-Right, you can use everything in the c/cpp standara library. 
+Right, you can use everything in the c/cpp standara library.
 It's very convenient to solve problems that about algorithm and datastruct.
 
 ------------------------------------------------------------
 
 ## diary
 
+- [2018-10-28](diary/2018-10-28.md)
 - [2018-10-13](diary/2018-10-13.md)
 
 ## contribute
@@ -54,10 +55,3 @@ It's very convenient to solve problems that about algorithm and datastruct.
 ## LICENSE
 
 [![GitHub license](https://img.shields.io/github/license/ltoddy/leetcode.svg)](https://github.com/ltoddy/leetcode/blob/master/LICENSE)
-
-
-
-
-
-
-
