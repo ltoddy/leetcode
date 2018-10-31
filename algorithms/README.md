@@ -237,3 +237,4 @@
 |917|[仅仅反转字母](https://leetcode-cn.com/problems/reverse-only-letters/description/)|简单|[已解决](reverse-only-letters.cpp)|
 |922|[按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/description/)|简单|[已解决](sort-array-by-parity-ii.py)|
 |925|[长按键入](https://leetcode-cn.com/problems/long-pressed-name/description/)|简单|[已解决](long-pressed-name.cpp)|
+|929|[独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/description/)|简单|[已解决](unique-email-addresses.py)|
