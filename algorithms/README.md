@@ -135,6 +135,7 @@
 |459|[重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/description/)|简单|[已解决](repeated-substring-pattern.cpp)|
 |461|[汉明距离](https://leetcode-cn.com/problems/hamming-distance/description/)|简单|[已解决](hamming-distance.cpp)|
 |463|[岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/description/)|简单|[已解决](island-perimeter.cpp)|
+|475|[供暖器](https://leetcode-cn.com/problems/heaters/description/)|简单|[已解决](heaters.cpp)|
 |476|[数字的补数](https://leetcode-cn.com/problems/number-complement/description/)|简单|[已解决](number-complement.py)|
 |482|[密钥格式化](https://leetcode-cn.com/problems/license-key-formatting/description/)|简单|[已解决](license-key-formatting.cpp)|
 |485|[最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/description/)|简单|[已解决](max-consecutive-ones.cpp)|
