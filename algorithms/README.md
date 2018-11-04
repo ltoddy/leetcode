@@ -211,6 +211,7 @@
 |796|[旋转字符串](https://leetcode-cn.com/problems/rotate-string/description/)|简单|[已解决](rotate-string.cpp)|
 |804|[唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/description/)|简单|[已解决](unique-morse-code-words.cpp)|
 |806|[写字符串需要的行数](https://leetcode-cn.com/problems/number-of-lines-to-write-string/description/)|简单|[已解决](number-of-lines-to-write-string.py)|
+|807|[保持城市天际线](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/description/)|简单|[已解决](max-increase-to-keep-city-skyline.cpp)|
 |811|[子域名访问计数](https://leetcode-cn.com/problems/subdomain-visit-count/description/)|简单|[已解决](subdomain-visit-count.py)|
 |812|[最大三角形面积](https://leetcode-cn.com/problems/largest-triangle-area/description/)|简单|[已解决](largest-triangle-area.cpp)|
 |819|[最常见的单词](https://leetcode-cn.com/problems/most-common-word/description/)|简单|[已解决](most-common-word.py)|
