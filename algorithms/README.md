@@ -173,6 +173,7 @@
 |628|[三个数的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/description/)|简单|[已解决](maximum-product-of-three-numbers.cpp)|
 |633|[平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/description/)|简单|[已解决](sum-of-square-numbers.cpp)|
 |637|[二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/description/)|简单|[已解决](average-of-levels-in-binary-tree.cpp)|
+|641|[设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/description/)|简单|[已解决](design-circular-deque.py)|
 |643|[子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i/description/)|简单|[已解决](maximum-average-subarray-i.cpp)|
 |645|[错误的集合](https://leetcode-cn.com/problems/set-mismatch/description/)|简单|[已解决](set-mismatch.cpp)|
 |653|[两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/description/)|简单|[已解决](two-sum-iv-input-is-a-bst.cpp)|
