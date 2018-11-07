@@ -223,6 +223,8 @@
 |832|[翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/)|简单|[已解决](flipping-an-image.cpp)|
 |836|[矩形重叠](https://leetcode-cn.com/problems/rectangle-overlap/description/)|简单|[已解决](rectangle-overlap.cpp)|
 |844|[比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/description/)|简单|[已解决](backspace-string-compare.cpp)|
+|849|[到最近的人的最大距离](https://leetcode-cn.com/problems/maximize-distance-to-closest-person/description/)|简单|[已解决](maximize-distance-to-closest-person.cpp)|
+
 |852|[山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/description/)|简单|[已解决](peak-index-in-a-mountain-array.cpp)|
 |859|[亲密字符串](https://leetcode-cn.com/problems/buddy-strings/description/)|简单|[已解决](buddy-strings.cpp)|
 |860|[柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/)|简单|[已解决](lemonade-change.cpp)|
