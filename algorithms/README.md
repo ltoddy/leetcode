@@ -165,6 +165,7 @@
 |581|[最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/description/)|简单|[已解决](shortest-unsorted-continuous-subarray.cpp)|
 |589|[N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/)|简单|[已解决](n-ary-tree-preorder-traversal.cpp)|
 |590|[N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/description/)|简单|[已解决](n-ary-tree-postorder-traversal.cpp)|
+|594|[最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/description/)|简单|[已解决](longest-harmonious-subsequence.cpp)|
 |598|[范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/description/)|简单|[已解决](range-addition-ii.cpp)|
 |599|[两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/description/)|简单|[已解决](minimum-index-sum-of-two-lists.cpp)|
 |605|[种花问题](https://leetcode-cn.com/problems/can-place-flowers/description/)|简单|[已解决](can-place-flowers.cpp)|
@@ -224,7 +225,6 @@
 |836|[矩形重叠](https://leetcode-cn.com/problems/rectangle-overlap/description/)|简单|[已解决](rectangle-overlap.cpp)|
 |844|[比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/description/)|简单|[已解决](backspace-string-compare.cpp)|
 |849|[到最近的人的最大距离](https://leetcode-cn.com/problems/maximize-distance-to-closest-person/description/)|简单|[已解决](maximize-distance-to-closest-person.cpp)|
-
 |852|[山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/description/)|简单|[已解决](peak-index-in-a-mountain-array.cpp)|
 |859|[亲密字符串](https://leetcode-cn.com/problems/buddy-strings/description/)|简单|[已解决](buddy-strings.cpp)|
 |860|[柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/)|简单|[已解决](lemonade-change.cpp)|
