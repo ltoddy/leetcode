@@ -200,6 +200,7 @@
 |706|[设计哈希映射](https://leetcode-cn.com/problems/design-hashmap/description/)|简单|[已解决](design-hashmap.cpp)|
 |709|[转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/description/)|简单|[已解决](to-lower-case.cpp)|
 |717|[1比特与2比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/description/)|简单|[已解决](1-bit-and-2-bit-characters.cpp)|
+|720|[词典中最长的单词](https://leetcode-cn.com/problems/longest-word-in-dictionary/description/)|简单|[已解决](longest-word-in-dictionary.py)|
 |724|[寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/description/)|简单|[已解决](find-pivot-index.cpp)|
 |728|[自除数](https://leetcode-cn.com/problems/self-dividing-numbers/description/)|简单|[已解决](self-dividing-numbers.cpp)|
 |733|[图像渲染](https://leetcode-cn.com/problems/flood-fill/description/)|简单|[已解决](flood-fill.cpp)|
