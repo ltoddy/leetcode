@@ -181,6 +181,7 @@
 |643|[子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i/description/)|简单|[已解决](maximum-average-subarray-i.cpp)|
 |645|[错误的集合](https://leetcode-cn.com/problems/set-mismatch/description/)|简单|[已解决](set-mismatch.cpp)|
 |653|[两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/description/)|简单|[已解决](two-sum-iv-input-is-a-bst.cpp)|
+|654|[最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/description/)|中等|[已解决](maximum-binary-tree.cpp)|
 |657|[判断路线成圈](https://leetcode-cn.com/problems/judge-route-circle/description/)|简单|[已解决](judge-route-circle.cpp)|
 |661|[图片平滑器](https://leetcode-cn.com/problems/image-smoother/description/)|简单|[已解决](image-smoother.cpp)|
 |665|[非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/description/)|简单|[已解决](non-decreasing-array.cpp)|
