@@ -102,6 +102,7 @@
 |292|[Nim游戏](https://leetcode-cn.com/problems/nim-game/description/)|简单|[已解决](nim-game.cpp)|
 |303|[区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/description/)|简单|[已解决](range-sum-query-immutable.cpp)|
 |326|[3的幂](https://leetcode-cn.com/problems/power-of-three/description/)|简单|[已解决](power-of-three.cpp)|
+|338|[比特位计数](https://leetcode-cn.com/problems/counting-bits/description/)|中等|[已解决](counting-bits.cpp)|
 |342|[4的幂](https://leetcode-cn.com/problems/power-of-four/description/)|简单|[已解决](power-of-four.cpp)|
 |344|[反转字符串](https://leetcode-cn.com/problems/reverse-string/description/)|简单|[已解决](reverse-string.cpp)|
 |345|[反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/description/)|简单|[已解决](reverse-vowels-of-a-string.cpp)|
