@@ -154,6 +154,7 @@
 |521|[最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/description/)|简单|[已解决](longest-uncommon-subsequence-i.cpp)|
 |530|[二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/description/)|简单|[已解决](minimum-absolute-difference-in-bst.cpp)|
 |532|[数组中的K-diff数对](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/description/)|简单|[已解决](k-diff-pairs-in-an-array.cpp)|
+|535|[TinyURL 的加密与解密](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/description/)|中等|[已解决](encode-and-decode-tinyurl.py)|
 |538|[把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/description/)|简单|[已解决](convert-bst-to-greater-tree.cpp)|
 |541|[反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/description/)|简单|[已解决](reverse-string-ii.cpp)|
 |543|[二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/description/)|简单|[已解决](diameter-of-binary-tree.cpp)|
