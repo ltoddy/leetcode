@@ -255,3 +255,4 @@
 |922|[按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/description/)|简单|[已解决](sort-array-by-parity-ii.py)|
 |925|[长按键入](https://leetcode-cn.com/problems/long-pressed-name/description/)|简单|[已解决](long-pressed-name.cpp)|
 |929|[独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/description/)|简单|[已解决](unique-email-addresses.py)|
+|933|[最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/description/)|简单|[已解决](number-of-recent-calls.py)|
