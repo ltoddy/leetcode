@@ -245,6 +245,7 @@
 |883|[三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/description/)|简单|[已解决](projection-area-of-3d-shapes.cpp)|
 |884|[两句话中的不常见单词](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/description/)|简单|[已解决](uncommon-words-from-two-sentences.py)|
 |888|[公平的糖果交换](https://leetcode-cn.com/problems/fair-candy-swap/description/)|简单|[已解决](fair-candy-swap.cpp)|
+|890|[查找和替换模式](https://leetcode-cn.com/problems/find-and-replace-pattern/description/)|中等|[已解决](find-and-replace-pattern.cpp)|
 |892|[三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/description/)|简单|[已解决](surface-area-of-3d-shapes.cpp)|
 |896|[单调数列](https://leetcode-cn.com/problems/monotonic-array/description/)|简单|[已解决](monotonic-array.cpp)|
 |897|[递增顺序查找树](https://leetcode-cn.com/problems/increasing-order-search-tree/description/)|简单|[已解决](increasing-order-search-tree.cpp)|
