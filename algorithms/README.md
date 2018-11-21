@@ -225,6 +225,8 @@
 |807|[保持城市天际线](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/description/)|简单|[已解决](max-increase-to-keep-city-skyline.cpp)|
 |811|[子域名访问计数](https://leetcode-cn.com/problems/subdomain-visit-count/description/)|简单|[已解决](subdomain-visit-count.py)|
 |812|[最大三角形面积](https://leetcode-cn.com/problems/largest-triangle-area/description/)|简单|[已解决](largest-triangle-area.cpp)|
+|814|[二叉树剪枝](https://leetcode-cn.com/problems/binary-tree-pruning/description/)|中等|[已解决](binary-tree-pruning.cpp)|
+
 |819|[最常见的单词](https://leetcode-cn.com/problems/most-common-word/description/)|简单|[已解决](most-common-word.py)|
 |821|[字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/description/)|简单|[已解决](shortest-distance-to-a-character.cpp)|
 |824|[山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/description/)|简单|[已解决](goat-latin.py)|
