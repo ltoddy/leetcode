@@ -49,6 +49,7 @@
 |83|[删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/description/)|简单|[已解决](remove-duplicates-from-sorted-list.cpp)|
 |88|[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/description/)|简单|[已解决](merge-sorted-array.cpp)|
 |91|[解码方法](https://leetcode-cn.com/problems/decode-ways/description/)|中等|[已解决](decode-ways.cpp)|
+|94|[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/)|中等|[已解决](binary-tree-inorder-traversal.cpp)|
 |100|[相同的树](https://leetcode-cn.com/problems/same-tree/description/)|简单|[已解决](same-tree.cpp)|
 |101|[对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/description/)|简单|[已解决](symmetric-tree.cpp)|
 |103|[二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/description/)|中等|[已解决](binary-tree-zigzag-level-order-traversal.cpp)|
@@ -226,7 +227,6 @@
 |811|[子域名访问计数](https://leetcode-cn.com/problems/subdomain-visit-count/description/)|简单|[已解决](subdomain-visit-count.py)|
 |812|[最大三角形面积](https://leetcode-cn.com/problems/largest-triangle-area/description/)|简单|[已解决](largest-triangle-area.cpp)|
 |814|[二叉树剪枝](https://leetcode-cn.com/problems/binary-tree-pruning/description/)|中等|[已解决](binary-tree-pruning.cpp)|
-
 |819|[最常见的单词](https://leetcode-cn.com/problems/most-common-word/description/)|简单|[已解决](most-common-word.py)|
 |821|[字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/description/)|简单|[已解决](shortest-distance-to-a-character.cpp)|
 |824|[山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/description/)|简单|[已解决](goat-latin.py)|
