@@ -28,5 +28,3 @@ public:
         return this->result;
     }
 };
-
-|94|[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/)|中等|[已解决](binary-tree-inorder-traversal.cpp)|
