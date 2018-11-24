@@ -240,6 +240,7 @@
 |852|[山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/description/)|简单|[已解决](peak-index-in-a-mountain-array.cpp)|
 |859|[亲密字符串](https://leetcode-cn.com/problems/buddy-strings/description/)|简单|[已解决](buddy-strings.cpp)|
 |860|[柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/)|简单|[已解决](lemonade-change.cpp)|
+|861|[翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix/description/)|中等|[已解决](score-after-flipping-matrix.cpp)|
 |867|[转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/description/)|简单|[已解决](transpose-matrix.cpp)|
 |868|[二进制间距](https://leetcode-cn.com/problems/binary-gap/description/)|简单|[已解决](binary-gap.cpp)|
 |872|[叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/description/)|简单|[已解决](leaf-similar-trees.py)|
