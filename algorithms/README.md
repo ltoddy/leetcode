@@ -269,3 +269,4 @@
 |937|[重新排列日志文件](https://leetcode-cn.com/problems/reorder-log-files/)|简单|[已解决](reorder-log-files.py)|
 |938|[二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/)|中等|[已解决](range-sum-of-bst.py)|
 |942|[增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/)|简单|[已解决](di-string-match.cpp)|
+|944|[删列造序](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/)|简单|[已解决](delete-columns-to-make-sorted.cpp)|
