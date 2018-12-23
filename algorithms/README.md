@@ -222,6 +222,7 @@
 |746|[使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)|简单|[已解决](min-cost-climbing-stairs.cpp)|
 |747|[至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)|简单|[已解决](largest-number-at-least-twice-of-others.cpp)|
 |748|[最短完整词](https://leetcode-cn.com/problems/shortest-completing-word/)|简单|[已解决](shortest-completing-word.py)|
+|754|[到达终点数字](https://leetcode-cn.com/problems/reach-a-number/)|简单|[已解决](reach-a-number.cpp)|
 |762|[二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/)|简单|[已解决](prime-number-of-set-bits-in-binary-representation.cpp)|
 |766|[托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/)|简单|[已解决](toeplitz-matrix.py)|
 |771|[宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/)|简单|[已解决](jewels-and-stones.py)|
