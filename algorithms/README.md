@@ -273,4 +273,5 @@
 |941|[有效的山脉数组](https://leetcode-cn.com/problems/valid-mountain-array/)|简单|[已解决](valid-mountain-array.cpp)|
 |942|[增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/)|简单|[已解决](di-string-match.cpp)|
 |944|[删列造序](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/)|简单|[已解决](delete-columns-to-make-sorted.cpp)|
+|949|[给定数字能组成的最大时间](https://leetcode-cn.com/problems/largest-time-for-given-digits/)|简单|[已解决](largest-time-for-given-digits.py)|
 |953|[验证外星语词典](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/)|简单|[已解决](verifying-an-alien-dictionary.py)|
