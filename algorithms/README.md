@@ -275,3 +275,4 @@
 |944|[删列造序](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/)|简单|[已解决](delete-columns-to-make-sorted.cpp)|
 |949|[给定数字能组成的最大时间](https://leetcode-cn.com/problems/largest-time-for-given-digits/)|简单|[已解决](largest-time-for-given-digits.py)|
 |953|[验证外星语词典](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/)|简单|[已解决](verifying-an-alien-dictionary.py)|
+|961|[重复 N 次的元素](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/)|简单|[已解决](n-repeated-element-in-size-2n-array.py)|
