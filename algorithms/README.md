@@ -264,6 +264,7 @@
 |908|[最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/)|简单|[已解决](smallest-range-i.cpp)|
 |914|[卡牌分组](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/)|简单|[已解决](x-of-a-kind-in-a-deck-of-cards.cpp)|
 |917|[仅仅反转字母](https://leetcode-cn.com/problems/reverse-only-letters/)|简单|[已解决](reverse-only-letters.cpp)|
+|921|[使括号有效的最少添加](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/)|简单|[已解决](minimum-add-to-make-parentheses-valid.py)|
 |922|[按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)|简单|[已解决](sort-array-by-parity-ii.py)|
 |925|[长按键入](https://leetcode-cn.com/problems/long-pressed-name/)|简单|[已解决](long-pressed-name.cpp)|
 |929|[独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/)|简单|[已解决](unique-email-addresses.py)|
