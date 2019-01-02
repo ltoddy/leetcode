@@ -95,6 +95,7 @@
 |235|[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|简单|[已解决](lowest-common-ancestor-of-a-binary-search-tree.cpp)|
 |237|[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|简单|[已解决](delete-node-in-a-linked-list.cpp)|
 |240|[搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)|中等|[已解决](search-a-2d-matrix-ii.cpp)|
+|241|[为运算表达式设计优先级](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/)|中等|[已解决](different-ways-to-add-parentheses.py)|
 |242|[有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)|简单|[已解决](valid-anagram.cpp)|
 |257|[二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)|简单|[已解决](binary-tree-paths.cpp)|
 |258|[各位相加](https://leetcode-cn.com/problems/add-digits/)|简单|[已解决](add-digits.cpp)|
