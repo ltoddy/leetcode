@@ -103,6 +103,7 @@
 |268|[缺失数字](https://leetcode-cn.com/problems/missing-number/)|简单|[已解决](missing-number.cpp)|
 |283|[移动零](https://leetcode-cn.com/problems/move-zeroes/)|简单|[已解决](move-zeroes.cpp)|
 |278|[第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)|简单|[已解决](first-bad-version.cpp)|
+|284|[顶端迭代器](https://leetcode-cn.com/problems/peeking-iterator/)|中等|[已解决](peeking-iterator.py)|
 |287|[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)|中等|[已解决](find-the-duplicate-number.cpp)|
 |290|[单词模式](https://leetcode-cn.com/problems/word-pattern/)|简单|[已解决](word-pattern.py)|
 |292|[Nim游戏](https://leetcode-cn.com/problems/nim-game/)|简单|[已解决](nim-game.cpp)|
