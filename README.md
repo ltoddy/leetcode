@@ -44,6 +44,7 @@ It's very convenient to solve problems that about algorithm and datastruct.
 
 ## diary
 
+- [2019-01-05](diary/2019-01-05.md)
 - [2018-10-28](diary/2018-10-28.md)
 - [2018-10-13](diary/2018-10-13.md)
 
