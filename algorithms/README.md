@@ -227,6 +227,7 @@
 |748|[最短完整词](https://leetcode-cn.com/problems/shortest-completing-word/)|简单|[已解决](shortest-completing-word.py)|
 |754|[到达终点数字](https://leetcode-cn.com/problems/reach-a-number/)|简单|[已解决](reach-a-number.cpp)|
 |762|[二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/)|简单|[已解决](prime-number-of-set-bits-in-binary-representation.cpp)|
+|763|[划分字母区间](https://leetcode-cn.com/problems/partition-labels/)|中等|[已解决](partition-labels.rs)|
 |766|[托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/)|简单|[已解决](toeplitz-matrix.py)|
 |771|[宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/)|简单|[已解决](jewels-and-stones.py)|
 |783|[二叉搜索树结点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/)|简单|[已解决](minimum-distance-between-bst-nodes.cpp)|
