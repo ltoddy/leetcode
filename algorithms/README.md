@@ -67,6 +67,7 @@
 |122|[买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|简单|[已解决](best-time-to-buy-and-sell-stock-ii.cpp)|
 |125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)|简单|[已解决](valid-palindrome.cpp)|
 |136|[只出现一次的数字](https://leetcode-cn.com/problems/single-number/)|简单|[已解决](valid-palindrome.cpp)|
+|137|[只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/)|中等|[已解决](single-number-ii.rs)|
 |141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)|简单|[已解决](linked-list-cycle.cpp)|
 |155|[最小栈](https://leetcode-cn.com/problems/min-stack/)|简单|[已解决](min-stack.cpp)|
 |160|[相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|简单|[已解决](intersection-of-two-linked-lists.cpp)|
