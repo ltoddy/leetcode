@@ -130,6 +130,7 @@
 |412|[Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/)|简单|[已解决](fizz-buzz.cpp)|
 |414|[第三大的数](https://leetcode-cn.com/problems/third-maximum-number/)|简单|[已解决](third-maximum-number.cpp)|
 |415|[字符串相加](https://leetcode-cn.com/problems/add-strings/)|简单|[已解决](add-strings.cpp)|
+|419|[甲板上的战舰](https://leetcode-cn.com/problems/battleships-in-a-board/)|中等|[已解决](battleships-in-a-board.rs)|
 |427|[建立四叉树](https://leetcode-cn.com/problems/construct-quad-tree/)|简单|[已解决](construct-quad-tree.cpp)|
 |429|[N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)|简单|[已解决](n-ary-tree-level-order-traversal.cpp)|
 |434|[字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/)|简单|[已解决](number-of-segments-in-a-string.py)|
