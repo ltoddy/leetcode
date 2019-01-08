@@ -100,6 +100,7 @@
 |242|[有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)|简单|[已解决](valid-anagram.cpp)|
 |257|[二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)|简单|[已解决](binary-tree-paths.cpp)|
 |258|[各位相加](https://leetcode-cn.com/problems/add-digits/)|简单|[已解决](add-digits.cpp)|
+|260|[只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)|简单|[已解决](single-number-iii.rs)|
 |263|[丑数](https://leetcode-cn.com/problems/ugly-number/)|简单|[已解决](ugly-number.cpp)|
 |268|[缺失数字](https://leetcode-cn.com/problems/missing-number/)|简单|[已解决](missing-number.cpp)|
 |283|[移动零](https://leetcode-cn.com/problems/move-zeroes/)|简单|[已解决](move-zeroes.cpp)|
