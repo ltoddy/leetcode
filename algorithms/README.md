@@ -107,6 +107,7 @@
 |278|[第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)|简单|[已解决](first-bad-version.cpp)|
 |284|[顶端迭代器](https://leetcode-cn.com/problems/peeking-iterator/)|中等|[已解决](peeking-iterator.py)|
 |287|[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)|中等|[已解决](find-the-duplicate-number.cpp)|
+|289|[生命游戏](https://leetcode-cn.com/problems/game-of-life/)|中等|[已解决](game-of-life.rs)|
 |290|[单词模式](https://leetcode-cn.com/problems/word-pattern/)|简单|[已解决](word-pattern.py)|
 |292|[Nim游戏](https://leetcode-cn.com/problems/nim-game/)|简单|[已解决](nim-game.cpp)|
 |303|[区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/)|简单|[已解决](range-sum-query-immutable.cpp)|
