@@ -161,6 +161,7 @@
 |504|[七进制数](https://leetcode-cn.com/problems/base-7/)|简单|[已解决](base-7.cpp)|
 |506|[相对名次](https://leetcode-cn.com/problems/relative-ranks/)|简单|[已解决](relative-ranks.cpp)|
 |507|[完美数](https://leetcode-cn.com/problems/perfect-number/)|简单|[已解决](perfect-number.cpp)|
+|509|[斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)|简单|[已解决](fibonacci-number.rs)|
 |513|[找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value/)|中等|[已解决](find-bottom-left-tree-value.cpp)|
 |520|[检测大写字母](https://leetcode-cn.com/problems/detect-capital/)|简单|[已解决](detect-capital.cpp)|
 |521|[最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/)|简单|[已解决](longest-uncommon-subsequence-i.cpp)|
