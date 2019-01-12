@@ -140,6 +140,7 @@
 |437|[路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/)|简单|[已解决](path-sum-iii.cpp)|
 |438|[找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)|简单|[已解决](find-all-anagrams-in-a-string.cpp)|
 |441|[排列硬币](https://leetcode-cn.com/problems/arranging-coins/)|简单|[已解决](arranging-coins.cpp)|
+|442|[数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)|中等|[已解决](find-all-duplicates-in-an-array.py)|
 |443|[压缩字符串](https://leetcode-cn.com/problems/string-compression/)|简单|[已解决](string-compression.py)|
 |447|[回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/)|简单|[已解决](number-of-boomerangs.py)|
 |448|[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)|简单|[已解决](find-all-numbers-disappeared-in-an-array.cpp)|
