@@ -291,3 +291,4 @@
 |961|[重复 N 次的元素](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/)|简单|[已解决](n-repeated-element-in-size-2n-array.py)|
 |965|[单值二叉树](https://leetcode-cn.com/problems/univalued-binary-tree/)|简单|[已解决](univalued-binary-tree.py)|
 |970|[强整数](https://leetcode-cn.com/problems/powerful-integers/)|简单|[已解决](powerful-integers.rs)|
+|973|[最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/)|简单|[已解决](k-closest-points-to-origin.rs)|
