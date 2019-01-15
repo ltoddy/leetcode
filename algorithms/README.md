@@ -292,3 +292,4 @@
 |965|[单值二叉树](https://leetcode-cn.com/problems/univalued-binary-tree/)|简单|[已解决](univalued-binary-tree.py)|
 |970|[强整数](https://leetcode-cn.com/problems/powerful-integers/)|简单|[已解决](powerful-integers.rs)|
 |973|[最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/)|简单|[已解决](k-closest-points-to-origin.rs)|
+|976|[三角形的最大周长](https://leetcode-cn.com/problems/largest-perimeter-triangle/)|简单|[已解决](largest-perimeter-triangle.rs)|
