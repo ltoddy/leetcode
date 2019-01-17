@@ -265,6 +265,7 @@
 |872|[叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/)|简单|[已解决](leaf-similar-trees.py)|
 |874|[模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation/)|简单|[已解决](walking-robot-simulation.py)|
 |876|[链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|简单|[已解决](middle-of-the-linked-list.cpp)|
+|877|[石子游戏](https://leetcode-cn.com/problems/stone-game/)|中等|[已解决](stone-game.rs)|
 |883|[三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/)|简单|[已解决](projection-area-of-3d-shapes.cpp)|
 |884|[两句话中的不常见单词](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/)|简单|[已解决](uncommon-words-from-two-sentences.py)|
 |888|[公平的糖果交换](https://leetcode-cn.com/problems/fair-candy-swap/)|简单|[已解决](fair-candy-swap.cpp)|
