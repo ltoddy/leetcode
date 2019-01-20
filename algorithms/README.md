@@ -219,6 +219,7 @@
 |696|[计数二进制子串](https://leetcode-cn.com/problems/count-binary-substrings/)|简单|[已解决](count-binary-substrings.cpp)|
 |697|[数组的度](https://leetcode-cn.com/problems/degree-of-an-array/)|简单|[已解决](degree-of-an-array.py)|
 |700|[二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)|简单|[已解决](search-in-a-binary-search-tree.cpp)|
+|701|[二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)|中等|[已解决](insert-into-a-binary-search-tree.cpp)|
 |703|[数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)|简单|[已解决](kth-largest-element-in-a-stream.cpp)|
 |704|[二分查找](https://leetcode-cn.com/problems/binary-search/)|简单|[已解决](binary-search.cpp)|
 |705|[设计哈希集合](https://leetcode-cn.com/problems/design-hashset/)|简单|[已解决](design-hashset.cpp)|
