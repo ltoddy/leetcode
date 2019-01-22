@@ -80,6 +80,7 @@
 |169|[求众数](https://leetcode-cn.com/problems/majority-element/)|简单|[已解决](majority-element.cpp)|
 |171|[Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/)|简单|[已解决](excel-sheet-column-number.cpp)|
 |172|[阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)|简单|[已解决](factorial-trailing-zeroes.cpp)|
+|179|[最大数](https://leetcode-cn.com/problems/largest-number/)|中等|[已解决](largest-number.rs)|
 |189|[旋转数组](https://leetcode-cn.com/problems/rotate-array/)|简单|[已解决](rotate-array.cpp)|
 |190|[颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)|简单|[已解决](reverse-bits.cpp)|
 |191|[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)|简单|[已解决](number-of-1-bits.cpp)|
