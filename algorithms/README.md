@@ -35,6 +35,7 @@
 |53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)|简单|[已解决](maximum-subarray.cpp)|
 |54|[螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)|中等|[已解决](spiral-matrix.cpp)|
 |55|[跳跃游戏](https://leetcode-cn.com/problems/jump-game/)|中等|[已解决](jump-game.cpp)|
+|56|[合并区间](https://leetcode-cn.com/problems/merge-intervals/)|中等|[已解决](merge-intervals.rs)|
 |58|[最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/)|简单|[已解决](length-of-last-word.cpp)|
 |59|[螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/)|中等|[已解决](spiral-matrix-ii.cpp)|
 |64|[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)|中等|[已解决](minimum-path-sum.cpp)|
