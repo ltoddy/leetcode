@@ -111,8 +111,9 @@
 |260|[只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)|简单|[已解决](single-number-iii.rs)|
 |263|[丑数](https://leetcode-cn.com/problems/ugly-number/)|简单|[已解决](ugly-number.cpp)|
 |268|[缺失数字](https://leetcode-cn.com/problems/missing-number/)|简单|[已解决](missing-number.cpp)|
-|283|[移动零](https://leetcode-cn.com/problems/move-zeroes/)|简单|[已解决](move-zeroes.cpp)|
+|274|[H指数](https://leetcode-cn.com/problems/h-index/)|中等|[已解决](h-index.rs)|
 |278|[第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)|简单|[已解决](first-bad-version.cpp)|
+|283|[移动零](https://leetcode-cn.com/problems/move-zeroes/)|简单|[已解决](move-zeroes.cpp)|
 |284|[顶端迭代器](https://leetcode-cn.com/problems/peeking-iterator/)|中等|[已解决](peeking-iterator.py)|
 |287|[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)|中等|[已解决](find-the-duplicate-number.cpp)|
 |289|[生命游戏](https://leetcode-cn.com/problems/game-of-life/)|中等|[已解决](game-of-life.rs)|
