@@ -120,6 +120,7 @@
 |290|[单词模式](https://leetcode-cn.com/problems/word-pattern/)|简单|[已解决](word-pattern.py)|
 |292|[Nim游戏](https://leetcode-cn.com/problems/nim-game/)|简单|[已解决](nim-game.cpp)|
 |303|[区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/)|简单|[已解决](range-sum-query-immutable.cpp)|
+|324|[摆动排序 II](https://leetcode-cn.com/problems/wiggle-sort-ii/)|中等|[已解决](wiggle-sort-ii.rs)|
 |326|[3的幂](https://leetcode-cn.com/problems/power-of-three/)|简单|[已解决](power-of-three.cpp)|
 |338|[比特位计数](https://leetcode-cn.com/problems/counting-bits/)|中等|[已解决](counting-bits.cpp)|
 |342|[4的幂](https://leetcode-cn.com/problems/power-of-four/)|简单|[已解决](power-of-four.cpp)|
