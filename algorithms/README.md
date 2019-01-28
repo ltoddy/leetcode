@@ -211,6 +211,7 @@
 |654|[最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/)|中等|[已解决](maximum-binary-tree.cpp)|
 |657|[判断路线成圈](https://leetcode-cn.com/problems/judge-route-circle/)|简单|[已解决](judge-route-circle.cpp)|
 |661|[图片平滑器](https://leetcode-cn.com/problems/image-smoother/)|简单|[已解决](image-smoother.cpp)|
+|662|[二叉树最大宽度](https://leetcode-cn.com/problems/maximum-width-of-binary-tree/)|中等|[已解决](maximum-width-of-binary-tree.rs)|
 |665|[非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/)|简单|[已解决](non-decreasing-array.cpp)|
 |669|[修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree/)|简单|[已解决](trim-a-binary-search-tree.cpp)|
 |671|[二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/)|简单|[已解决](second-minimum-node-in-a-binary-tree.cpp)|
