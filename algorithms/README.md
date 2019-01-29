@@ -281,6 +281,7 @@
 |888|[公平的糖果交换](https://leetcode-cn.com/problems/fair-candy-swap/)|简单|[已解决](fair-candy-swap.cpp)|
 |890|[查找和替换模式](https://leetcode-cn.com/problems/find-and-replace-pattern/)|中等|[已解决](find-and-replace-pattern.cpp)|
 |892|[三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/)|简单|[已解决](surface-area-of-3d-shapes.cpp)|
+|894|[所有可能的满二叉树](https://leetcode-cn.com/problems/all-possible-full-binary-trees)|中等|[已解决](all-possible-full-binary-trees.rs)|
 |896|[单调数列](https://leetcode-cn.com/problems/monotonic-array/)|简单|[已解决](monotonic-array.cpp)|
 |897|[递增顺序查找树](https://leetcode-cn.com/problems/increasing-order-search-tree/)|简单|[已解决](increasing-order-search-tree.cpp)|
 |905|[按奇偶校验排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/)|简单|[已解决](sort-array-by-parity.cpp)|
