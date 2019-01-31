@@ -309,3 +309,4 @@
 |973|[最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/)|简单|[已解决](k-closest-points-to-origin.rs)|
 |976|[三角形的最大周长](https://leetcode-cn.com/problems/largest-perimeter-triangle/)|简单|[已解决](largest-perimeter-triangle.rs)|
 |977|[有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|简单|[已解决](squares-of-a-sorted-array.rs)|
+|984|[不含 AAA 或 BBB 的字符串](https://leetcode-cn.com/problems/string-without-aaa-or-bbb/)|简单|[已解决](string-without-aaa-or-bbb.rs)|
