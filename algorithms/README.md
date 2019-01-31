@@ -308,3 +308,4 @@
 |970|[强整数](https://leetcode-cn.com/problems/powerful-integers/)|简单|[已解决](powerful-integers.rs)|
 |973|[最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/)|简单|[已解决](k-closest-points-to-origin.rs)|
 |976|[三角形的最大周长](https://leetcode-cn.com/problems/largest-perimeter-triangle/)|简单|[已解决](largest-perimeter-triangle.rs)|
+|977|[有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|简单|[已解决](squares-of-a-sorted-array.rs)|
