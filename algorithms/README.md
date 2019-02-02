@@ -181,6 +181,7 @@
 |535|[TinyURL 的加密与解密](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/)|中等|[已解决](encode-and-decode-tinyurl.py)|
 |537|[复数乘法](https://leetcode-cn.com/problems/complex-number-multiplication/)|中等|[已解决](complex-number-multiplication.py)|
 |538|[把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)|简单|[已解决](convert-bst-to-greater-tree.cpp)|
+|540|[有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/)|中等|[已解决](single-element-in-a-sorted-array.rs)|
 |541|[反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/)|简单|[已解决](reverse-string-ii.cpp)|
 |543|[二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|简单|[已解决](diameter-of-binary-tree.cpp)|
 |551|[学生出勤纪录 I](https://leetcode-cn.com/problems/student-attendance-record-i/)|简单|[已解决](student-attendance-record-i.cpp)|
