@@ -69,6 +69,7 @@
 |121|[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|简单|[已解决](best-time-to-buy-and-sell-stock.cpp)|
 |122|[买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|简单|[已解决](best-time-to-buy-and-sell-stock-ii.cpp)|
 |125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)|简单|[已解决](valid-palindrome.cpp)|
+|129|[求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)|中等|[已解决](sum-root-to-leaf-numbers.rs)|
 |136|[只出现一次的数字](https://leetcode-cn.com/problems/single-number/)|简单|[已解决](valid-palindrome.cpp)|
 |137|[只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/)|中等|[已解决](single-number-ii.rs)|
 |141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)|简单|[已解决](linked-list-cycle.cpp)|
