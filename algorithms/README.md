@@ -128,6 +128,7 @@
 |342|[4的幂](https://leetcode-cn.com/problems/power-of-four/)|简单|[已解决](power-of-four.cpp)|
 |344|[反转字符串](https://leetcode-cn.com/problems/reverse-string/)|简单|[已解决](reverse-string.cpp)|
 |345|[反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)|简单|[已解决](reverse-vowels-of-a-string.cpp)|
+|347|[前K个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)|中等|[已解决](problems/top-k-frequent-elements.py)|
 |349|[两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|简单|[已解决](intersection-of-two-arrays.cpp)|
 |350|[两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|简单|[已解决](intersection-of-two-arrays-ii.cpp)|
 |367|[有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/)|简单|[已解决](valid-perfect-square.cpp)|
