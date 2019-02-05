@@ -251,6 +251,7 @@
 |763|[划分字母区间](https://leetcode-cn.com/problems/partition-labels/)|中等|[已解决](partition-labels.rs)|
 |766|[托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/)|简单|[已解决](toeplitz-matrix.py)|
 |771|[宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/)|简单|[已解决](jewels-and-stones.py)|
+|781|[森林中的兔子](https://leetcode-cn.com/problems/rabbits-in-forest/)|中等|[已解决](rabbits-in-forest.rs)|
 |783|[二叉搜索树结点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/)|简单|[已解决](minimum-distance-between-bst-nodes.cpp)|
 |784|[字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/)|简单|[已解决](letter-case-permutation.cpp)|
 |796|[旋转字符串](https://leetcode-cn.com/problems/rotate-string/)|简单|[已解决](rotate-string.cpp)|
