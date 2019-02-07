@@ -135,6 +135,7 @@
 |367|[有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/)|简单|[已解决](valid-perfect-square.cpp)|
 |371|[两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/)|简单|[已解决](sum-of-two-integers.cpp)|
 |374|[猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)|简单|[已解决](guess-number-higher-or-lower.cpp)|
+|378|[有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)|中等|[已解决](kth-smallest-element-in-a-sorted-matrix.rs)|
 |383|[赎金信](https://leetcode-cn.com/problems/ransom-note/)|简单|[已解决](ransom-note.cpp)|
 |387|[字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|简单|[已解决](first-unique-character-in-a-string.cpp)|
 |389|[找不同](https://leetcode-cn.com/problems/find-the-difference/)|简单|[已解决](find-the-difference.cpp)|
