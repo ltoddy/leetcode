@@ -98,6 +98,7 @@
 |216|[组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/)|中等|[已解决](combination-sum-iii.rs)|
 |217|[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)|简单|[已解决](contains-duplicate.cpp)|
 |219|[存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/)|简单|[已解决](contains-duplicate-ii.cpp)|
+|222|[完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/)|中等|[已解决](count-complete-tree-nodes.rs)|
 |223|[矩形面积](https://leetcode-cn.com/problems/rectangle-area/)|中等|[已解决](rectangle-area.cpp)|
 |225|[用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)|简单|[已解决](implement-stack-using-queues.cpp)|
 |226|[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)|简单|[已解决](invert-binary-tree.cpp)|
