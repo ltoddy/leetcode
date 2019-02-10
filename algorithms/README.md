@@ -79,6 +79,7 @@
 |150|[逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)|中等|[已解决](evaluate-reverse-polish-notation.rs)|
 |155|[最小栈](https://leetcode-cn.com/problems/min-stack/)|简单|[已解决](min-stack.cpp)|
 |160|[相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|简单|[已解决](intersection-of-two-linked-lists.cpp)|
+|162|[寻找峰值](https://leetcode-cn.com/problems/find-peak-element/)|中等|[已解决](find-peak-element.rs)|
 |167|[两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)|简单|[已解决](two-sum-ii-input-array-is-sorted.cpp)|
 |168|[Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/)|简单|[已解决](excel-sheet-column-title.cpp)|
 |169|[求众数](https://leetcode-cn.com/problems/majority-element/)|简单|[已解决](majority-element.cpp)|
