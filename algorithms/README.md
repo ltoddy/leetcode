@@ -91,6 +91,7 @@
 |190|[颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)|简单|[已解决](reverse-bits.cpp)|
 |191|[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)|简单|[已解决](number-of-1-bits.cpp)|
 |198|[打家劫舍](https://leetcode-cn.com/problems/house-robber/)|简单|[已解决](house-robber.cpp)|
+|200|[岛屿的个数](https://leetcode-cn.com/problems/number-of-islands/)|中等|[已解决](number-of-islands.rs)|
 |203|[删除链表中的节点](https://leetcode-cn.com/problems/remove-linked-list-elements/)|简单|[已解决](remove-linked-list-elements.cpp)|
 |204|[计数质数](https://leetcode-cn.com/problems/count-primes/)|简单|[已解决](count-primes.cpp)|
 |205|[同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/)|简单|[已解决](isomorphic-strings.cpp)|
