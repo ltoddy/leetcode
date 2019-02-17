@@ -54,6 +54,7 @@
 |88|[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)|简单|[已解决](merge-sorted-array.cpp)|
 |91|[解码方法](https://leetcode-cn.com/problems/decode-ways/)|中等|[已解决](decode-ways.cpp)|
 |94|[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|中等|[已解决](binary-tree-inorder-traversal.cpp)|
+|96|[不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)|中等|[已解决](unique-binary-search-trees.rs)|
 |98|[验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)|中等|[已解决](validate-binary-search-tree.rs)|
 |100|[相同的树](https://leetcode-cn.com/problems/same-tree/)|简单|[已解决](same-tree.cpp)|
 |101|[对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)|简单|[已解决](symmetric-tree.cpp)|
