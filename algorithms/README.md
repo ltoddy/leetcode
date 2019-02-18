@@ -282,6 +282,7 @@
 |844|[比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/)|简单|[已解决](backspace-string-compare.cpp)|
 |849|[到最近的人的最大距离](https://leetcode-cn.com/problems/maximize-distance-to-closest-person/)|简单|[已解决](maximize-distance-to-closest-person.cpp)|
 |852|[山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/)|简单|[已解决](peak-index-in-a-mountain-array.cpp)|
+|856|[括号的分数](https://leetcode-cn.com/problems/score-of-parentheses/)|中等|[已解决](score-of-parentheses.rs)|
 |859|[亲密字符串](https://leetcode-cn.com/problems/buddy-strings/)|简单|[已解决](buddy-strings.cpp)|
 |860|[柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/)|简单|[已解决](lemonade-change.cpp)|
 |861|[翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix/)|中等|[已解决](score-after-flipping-matrix.cpp)|
