@@ -327,3 +327,4 @@
 |984|[不含 AAA 或 BBB 的字符串](https://leetcode-cn.com/problems/string-without-aaa-or-bbb/)|简单|[已解决](string-without-aaa-or-bbb.rs)|
 |985|[查询后的偶数和](https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries/)|简单|[已解决](sum-of-even-numbers-after-queries.rs)|
 |989|[数组形式的整数加法](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)|简单|[已解决](add-to-array-form-of-integer.rs)|
+|994|[腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/)|简单|[已解决](rotting-oranges.rs)|
