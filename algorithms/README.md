@@ -79,6 +79,7 @@
 |144|[二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|简单|[已解决](binary-tree-preorder-traversal.py)|
 |145|[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)|困难|[已解决](binary-tree-postorder-traversal.py)|
 |150|[逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)|中等|[已解决](evaluate-reverse-polish-notation.rs)|
+|153|[寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)|中等|[已解决](find-minimum-in-rotated-sorted-array.rs)|
 |155|[最小栈](https://leetcode-cn.com/problems/min-stack/)|简单|[已解决](min-stack.cpp)|
 |160|[相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|简单|[已解决](intersection-of-two-linked-lists.cpp)|
 |162|[寻找峰值](https://leetcode-cn.com/problems/find-peak-element/)|中等|[已解决](find-peak-element.rs)|
