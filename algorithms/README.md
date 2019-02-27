@@ -331,4 +331,5 @@
 |985|[查询后的偶数和](https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries/)|简单|[已解决](sum-of-even-numbers-after-queries.rs)|
 |989|[数组形式的整数加法](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)|简单|[已解决](add-to-array-form-of-integer.rs)|
 |994|[腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/)|简单|[已解决](rotting-oranges.rs)|
+|997|[找到小镇的法官](https://leetcode-cn.com/problems/find-the-town-judge/)|简单|[已解决](find-the-town-judge.rs)|
 |999|[车的可用捕获量](https://leetcode-cn.com/problems/available-captures-for-rook/)|简单|[已解决](available-captures-for-rook.py)|
