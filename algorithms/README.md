@@ -334,4 +334,5 @@
 |994|[腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/)|简单|[已解决](rotting-oranges.rs)|
 |997|[找到小镇的法官](https://leetcode-cn.com/problems/find-the-town-judge/)|简单|[已解决](find-the-town-judge.rs)|
 |999|[车的可用捕获量](https://leetcode-cn.com/problems/available-captures-for-rook/)|简单|[已解决](available-captures-for-rook.py)|
+|1012|[十进制整数的反码](https://leetcode-cn.com/problems/complement-of-base-10-integer/)|简单|[已解决](complement-of-base-10-integer.rs)|
 |1013|[总持续时间可被 60 整除的歌曲](https://leetcode-cn.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|简单|[已解决](pairs-of-songs-with-total-durations-divisible-by-60.rs)|
