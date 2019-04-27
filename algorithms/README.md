@@ -338,5 +338,6 @@
 |1009|[十进制整数的反码](https://leetcode-cn.com/problems/complement-of-base-10-integer/)|简单|[已解决](complement-of-base-10-integer.rs)|
 |1010|[总持续时间可被 60 整除的歌曲](https://leetcode-cn.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|简单|[已解决](pairs-of-songs-with-total-durations-divisible-by-60.rs)|
 |1013|[将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)|简单|[已解决](partition-array-into-three-parts-with-equal-sum.rs)|
+|1021|[删除最外层的括号](https://leetcode-cn.com/problems/remove-outermost-parentheses/)|简单|[已解决](remove-outermost-parentheses.rs)|
 |1025|[除数博弈](https://leetcode-cn.com/problems/divisor-game/)|简单|[已解决](divisor-game.rs)|
 |1029|[两地调度](https://leetcode-cn.com/problems/two-city-scheduling/)|简单|[已解决](two-city-scheduling.rs)|
