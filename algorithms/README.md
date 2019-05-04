@@ -341,3 +341,4 @@
 |1021|[删除最外层的括号](https://leetcode-cn.com/problems/remove-outermost-parentheses/)|简单|[已解决](remove-outermost-parentheses.rs)|
 |1025|[除数博弈](https://leetcode-cn.com/problems/divisor-game/)|简单|[已解决](divisor-game.rs)|
 |1029|[两地调度](https://leetcode-cn.com/problems/two-city-scheduling/)|简单|[已解决](two-city-scheduling.rs)|
+|1033|[移动石子直到连续](https://leetcode-cn.com/problems/moving-stones-until-consecutive/)|简单|[已解决](moving-stones-until-consecutive.rs)|
