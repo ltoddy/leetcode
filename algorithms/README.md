@@ -343,3 +343,4 @@
 |1025|[除数博弈](https://leetcode-cn.com/problems/divisor-game/)|简单|[已解决](divisor-game.rs)|
 |1029|[两地调度](https://leetcode-cn.com/problems/two-city-scheduling/)|简单|[已解决](two-city-scheduling.rs)|
 |1033|[移动石子直到连续](https://leetcode-cn.com/problems/moving-stones-until-consecutive/)|简单|[已解决](moving-stones-until-consecutive.rs)|
+|1041|[困于环中的机器人](https://leetcode-cn.com/problems/robot-bounded-in-circle/)|简单|[已解决](robot-bounded-in-circle.rs)|
