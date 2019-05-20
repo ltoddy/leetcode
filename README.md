@@ -1,3 +1,7 @@
+2019年5月20日，今天打开leetcode发现好多题目不能做了，需要充值成为会员才可以做。
+所以我决定不再做leetcode-cn上的题目了，转向codewars: [https://www.codewars.com/users/ltoddy](https://www.codewars.com/users/ltoddy)
+
+
 
     _           _                _
     | | ___  ___| |_ ___ ___   __| | ___
