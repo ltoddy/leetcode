@@ -148,6 +148,7 @@
 |383|[赎金信](https://leetcode-cn.com/problems/ransom-note/)|简单|[已解决](ransom-note.cpp)|
 |387|[字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|简单|[已解决](first-unique-character-in-a-string.cpp)|
 |389|[找不同](https://leetcode-cn.com/problems/find-the-difference/)|简单|[已解决](find-the-difference.cpp)|
+|392|[判断子序列](https://leetcode-cn.com/problems/is-subsequence/)|简单|[已解决](is-subsequence.cpp)|
 |400|[第N个数字](https://leetcode-cn.com/problems/nth-digit/)|简单|[已解决](nth-digit.cpp)|
 |401|[二进制手表](https://leetcode-cn.com/problems/binary-watch/)|简单|[已解决](binary-watch.cpp)|
 |404|[左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/)|简单|[已解决](sum-of-left-leaves.cpp)|
