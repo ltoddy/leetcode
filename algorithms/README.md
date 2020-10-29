@@ -32,6 +32,7 @@
 |41|[缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)|困难|[已解决](first-missing-positive.cpp)|
 |43|[字符串相乘](https://leetcode-cn.com/problems/multiply-strings/)|中等|[已解决](multiply-strings.py)|
 |46|[全排列](https://leetcode-cn.com/problems/permutations/)|中等|[已解决](permutations.cpp)|
+|47|[全排列 II](https://leetcode-cn.com/problems/permutations-ii/)|中等|[已解决](permutations-ii.cpp)|
 |48|[旋转图像](https://leetcode-cn.com/problems/rotate-image/)|中等|[已解决](rotate-image.cpp)|
 |50|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)|中等|[已解决](powx-n.cpp)|
 |53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)|简单|[已解决](maximum-subarray.cpp)|
