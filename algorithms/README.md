@@ -348,3 +348,4 @@
 |1033|[移动石子直到连续](https://leetcode-cn.com/problems/moving-stones-until-consecutive/)|简单|[已解决](moving-stones-until-consecutive.rs)|
 |1038|[从二叉搜索树到更大和树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/)|中等|[已解决](binary-search-tree-to-greater-sum-tree.cpp)|
 |1041|[困于环中的机器人](https://leetcode-cn.com/problems/robot-bounded-in-circle/)|简单|[已解决](robot-bounded-in-circle.rs)|
+|1161|[最大层内元素和](https://leetcode-cn.com/problems/maximum-level-sum-of-a-binary-tree/)|中等|[已解决](maximum-level-sum-of-a-binary-tree.cpp)|
