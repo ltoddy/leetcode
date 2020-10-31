@@ -110,6 +110,7 @@
 |223|[矩形面积](https://leetcode-cn.com/problems/rectangle-area/)|中等|[已解决](rectangle-area.cpp)|
 |225|[用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)|简单|[已解决](implement-stack-using-queues.cpp)|
 |226|[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)|简单|[已解决](invert-binary-tree.cpp)|
+|229|[求众数 II](https://leetcode-cn.com/problems/majority-element-ii/)|中等|[已解决](majority-element-ii.cpp)|
 |230|[二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)|中等|[已解决](kth-smallest-element-in-a-bst.py)|
 |231|[2的幂](https://leetcode-cn.com/problems/power-of-two/)|简单|[已解决](power-of-two.cpp)|
 |232|[用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)|简单|[已解决](implement-queue-using-stacks.cpp)|
