@@ -198,3 +198,10 @@ venv.bak/
 dmypy.json
 
 .idea/
+
+
+# Added by cargo
+
+/target
+
+Cargo.lock

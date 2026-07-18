@@ -36,6 +36,19 @@ It's very convenient to solve problems that about algorithm and datastruct.
 
 [see more](.github/CONTRIBUTING.md)
 
+## Skill 使用指南
+
+本项目配置了一个 [skill](.agents/skills/leetcode-cn/SKILL.md)，让 AI 助手能直接从 LeetCode 中国站拉取题目并初始化题解。
+
+对 AI 助手说自然语言即可，例如：
+
+- 「帮我初始化 LeetCode 题目 two-sum」
+- 「今天 LeetCode 每日一题是什么」
+- 「随机来一道 Hard 题」
+- 「拉一下 LCR 112 这道题的题目描述和代码模板」
+
+初始化完成后，助手会自动生成带测试用例的 Rust / Python 模板文件。
+
 
 ## LICENSE
 
